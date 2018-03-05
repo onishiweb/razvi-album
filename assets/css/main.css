@@ -66,6 +66,8 @@ a {
 	/*width: 100px;
 	height: auto;*/
 	margin: 20px 10px;
+	opacity: 1;
+	transition: all 0.4s ease-out;
 }
 
 .image-thumbnail img {
@@ -79,6 +81,12 @@ a {
 .image-thumbnail.inactive {
 	opacity: 0.4;
 }
+
+.image-thumbnail.fade-out {
+	opacity: 0;
+	transform: scale(0);
+}
+
 .hashtags {
 	flex-basis: 100%;
 	margin-top: 50px;
