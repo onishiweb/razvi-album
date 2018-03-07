@@ -130,7 +130,7 @@ a {
 
 .ao-fancybox-base .fancybox-caption {
 	color: #000;
+	background-color: #fff;
 	border: 0;
-	max-width: 600px;
 	margin: 0 auto;
 }
