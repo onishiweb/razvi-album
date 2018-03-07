@@ -74,18 +74,19 @@ function updateImages(imageData, category) {
             var def = $.Deferred();
         	var imagePath = '/images/';
 
-        	if (imageData[key].thumb !== 'placeholder.jpg') {
+        	if (imageData[key].image !== 'placeholder.jpg') {
         		imagePath+= category + '/';
         	}
 
-        	$($images[key]).attr('href', imagePath + imageData[key].full);
+        	$($images[key]).attr('href', imagePath + imageData[key].image);
+            $($images[key]).data('caption', imageData[key].caption);
 
         	// Remove image and create new one. Collect load events and then remove fade-out class
         	$($images[key]).empty();
 
         	var tmpImg = new Image();
 
-        	tmpImg.src = imagePath + imageData[key].thumb;
+        	tmpImg.src = imagePath + imageData[key].image;
         	tmpImg.onload = function() {
         		// Run onload code.
         		$($images[key]).append(tmpImg);
@@ -102,7 +103,7 @@ function loadImagesFromFilter() {
 	var $images = $('.image-thumbnail');
 
 	// Load images list JSON file
-	$.getJSON( "/imageList.json", function( data ) {
+	$.getJSON( "/imageList.json?afasg", function( data ) {
 		// retreive and randomise array:
 		var imageData = Shuffle(data[category]);
 
