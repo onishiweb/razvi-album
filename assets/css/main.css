@@ -38,16 +38,32 @@ a {
 
 .site-navigation li {
 	padding: 0;
-	margin: 0 0 10px 0;
+	margin: 0 0 15px 0;
 }
 
 .site-navigation .subnav {
 	margin: 20px 0;
-	padding-left: 20px;
+	padding-left: 15px;
 }
 
 .site-navigation a {
 	color: #666;
+}
+
+.main-content {
+	margin-bottom: 20px;
+}
+
+.site-footer {
+	clear: both;
+	width: 95%;
+	margin: 40px auto 0;
+	padding: 20px 20px;
+	border-top: 1px solid #222;
+}
+
+.align-right {
+	float: right;
 }
 
 .main-content {
