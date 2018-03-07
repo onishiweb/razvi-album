@@ -64,36 +64,37 @@ function Shuffle(o) {
 
 function updateImages(imageData, category) {
 	var $images = $('.image-thumbnail');
+    var promises = [];
 
 	// Fade out the images
 	$images.addClass('fade-out');
 
-	$.each($images, function(key, val) {
-		var imagePath = '/images/';
+	setTimeout(function() {
+        $.each($images, function(key, val) {
+            var def = $.Deferred();
+        	var imagePath = '/images/';
 
-		if (imageData[key].thumb !== 'placeholder.jpg') {
-			imagePath+= category + '/';
-		}
+        	if (imageData[key].thumb !== 'placeholder.jpg') {
+        		imagePath+= category + '/';
+        	}
 
-		$($images[key]).attr('href', imagePath + imageData[key].full);
-		
-		// Remove image and create new one. Collect load events and then remove fade-out class
-		$($images[key]).empty();
+        	$($images[key]).attr('href', imagePath + imageData[key].full);
 
-		var tmpImg = new Image();
-		
-		tmpImg.src = imagePath + imageData[key].thumb;
-		tmpImg.onload = function() {
-			// Run onload code.
-			$($images[key]).append(tmpImg);
-		};
-	});
+        	// Remove image and create new one. Collect load events and then remove fade-out class
+        	$($images[key]).empty();
 
-	$images.promise().done(function() {
-		$images.removeClass('fade-out');		
-	});
-	
-	
+        	var tmpImg = new Image();
+
+        	tmpImg.src = imagePath + imageData[key].thumb;
+        	tmpImg.onload = function() {
+        		// Run onload code.
+        		$($images[key]).append(tmpImg);
+                promises.push(def.resolve());
+        	};
+    	})
+    }, 400 );
+
+    setTimeout(function() { $images.removeClass('fade-out') }, 600);
 }
 
 function loadImagesFromFilter() {
@@ -104,7 +105,7 @@ function loadImagesFromFilter() {
 	$.getJSON( "/imageList.json", function( data ) {
 		// retreive and randomise array:
 		var imageData = Shuffle(data[category]);
-		
+
 		updateImages(imageData, category);
 	});
 }

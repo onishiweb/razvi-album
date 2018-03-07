@@ -67,7 +67,7 @@ a {
 	height: auto;*/
 	margin: 20px 10px;
 	opacity: 1;
-	transition: all 0.4s ease-out;
+	transition: all 0.3s ease-in;
 }
 
 .image-thumbnail img {
@@ -85,6 +85,7 @@ a {
 .image-thumbnail.fade-out {
 	opacity: 0;
 	transform: scale(0);
+	transition: all 0.3s ease-out;
 }
 
 .hashtags {
@@ -93,6 +94,7 @@ a {
 	margin-bottom: 10px;
 	text-align: left;
 }
+
 .hashtags a {
 	padding: 0 5px 5px;
 	display: inline-block;
