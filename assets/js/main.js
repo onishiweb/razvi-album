@@ -64,7 +64,7 @@ function Shuffle(o) {
 
 function updateImages(imageData, category) {
 	var $images = $('.image-thumbnail');
-    var promises = [];
+	var promises = [];
 
 	// Fade out the images
 	$images.addClass('fade-out');
@@ -103,7 +103,7 @@ function loadImagesFromFilter() {
 	var $images = $('.image-thumbnail');
 
 	// Load images list JSON file
-	$.getJSON( "/imageList.json?afasg", function( data ) {
+	$.getJSON( "/imageList.json", function( data ) {
 		// retreive and randomise array:
 		var imageData = Shuffle(data[category]);
 
