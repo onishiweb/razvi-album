@@ -58,7 +58,7 @@ function updateImages(imageData, category) {
 	setTimeout(function() {
         $.each($images, function(key, val) {
             var def = $.Deferred();
-        	var imagePath = '/images/';
+        	var imagePath = 'images/';
 
         	if (imageData[key].image !== 'placeholder.jpg') {
         		imagePath+= category + '/';
