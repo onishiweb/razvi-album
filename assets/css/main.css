@@ -27,8 +27,14 @@ a {
 
 .site-navigation {
 	float: left;
-	width: 15%;
+	width: 25%;
 	padding: 0 0 0 40px;
+}
+
+@media only screen and (min-width: 960px) {
+	.site-navigation {
+		width: 15%;
+	}	
 }
 
 .site-navigation ul {
@@ -67,13 +73,19 @@ a {
 }
 
 .main-content {
-	width: 80%;
+	width: 70%;
 	float: right;
 	margin-right: 5%;
 	display: flex;
 	justify-content: space-between;
 	flex-direction: row;
 	flex-wrap: wrap;
+}
+
+@media only screen and (min-width: 960px) {
+	.main-content {
+		width: 80%;
+	}	
 }
 
 .image-thumbnail {
@@ -90,6 +102,22 @@ a {
 	overflow: hidden;
 }
 
+@media only screen and (min-width: 700px) {
+	.image-thumbnail {
+		flex: 0 0 27%;
+		width: 27%;
+		padding-top: 27%;
+	}	
+}
+
+@media only screen and (min-width: 1000px) {
+	.image-thumbnail {
+		flex: 0 0 16%;
+		width: 16%;
+		padding-top: 16%;
+	}	
+}
+
 .image-thumbnail img {
 	position: absolute;
 	top: 0;
@@ -99,10 +127,6 @@ a {
 	min-height: 100%;
 	margin: 0;
 	object-fit: cover;
-}
-
-.image-thumbnail.inactive {
-	opacity: 0.4;
 }
 
 .image-thumbnail.fade-out {
