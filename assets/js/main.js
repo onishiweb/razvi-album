@@ -89,7 +89,7 @@ function loadImagesFromFilter() {
 	var $images = $('.image-thumbnail');
 
 	// Load images list JSON file
-	$.getJSON( "/imageList.json", function( data ) {
+	$.getJSON( "imageList.json", function( data ) {
 		// retreive and randomise array:
 		var imageData = Shuffle(data[category]);
 
