@@ -85,7 +85,9 @@ function updateImages(imageData, category) {
     setTimeout(function() { $images.removeClass('fade-out') }, 600);
 }
 
-function loadImagesFromFilter() {
+function loadImagesFromFilter(e) {
+    e.preventDefault();
+
 	var category = $(this).data('filter');
 	var $images = $('.image-thumbnail');
 
