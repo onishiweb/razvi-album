@@ -41,6 +41,11 @@ function initFancybox() {
 	};
 
 	$("[data-fancybox]").fancybox(fancybox_options);
+
+    $.fancybox.open({
+        src  : '#welcome-content',
+        type : 'inline'
+    });
 }
 
 function Shuffle(o) {
