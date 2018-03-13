@@ -100,6 +100,14 @@ function loadImagesFromFilter() {
 $(document).ready(function() {
 	initFancybox();
 
+    // Load images list JSON file
+    $.getJSON( "imageList.json", function( data ) {
+        // retreive and randomise array:
+        var imageData = Shuffle(data['home']);
+
+        updateImages(imageData, 'home');
+    });
+
 	$('.site-navigation').on('click', '[data-filter]', loadImagesFromFilter);
 });
 
