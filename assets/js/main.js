@@ -61,7 +61,7 @@ function updateImages(imageData, category) {
             var def = $.Deferred();
         	var imagePath = 'images/';
 
-        	if (imageData[key].image !== 'placeholder.jpg?asd') {
+        	if (imageData[key].image !== 'placeholder.jpg') {
         		imagePath+= category + '/';
         	}
 

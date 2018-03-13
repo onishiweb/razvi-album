@@ -212,3 +212,8 @@ p {
 	border: 0;
 	margin: 0 auto;
 }
+
+.caption__title {
+	margin: 5px 0;
+	text-align: center;
+}

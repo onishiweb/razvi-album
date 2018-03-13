@@ -2,83 +2,83 @@
 	"home": [
 		{
 			"image": "abid.jpg",
-			"caption": "Abid"
+			"caption": "<h2 class=\"caption__title\">Abid</h2>"
 		},
 		{
 			"image": "adam.jpg",
-			"caption": "Adam"
+			"caption": "<h2 class=\"caption__title\">Adam</h2>"
 		},
 		{
 			"image": "asad.jpg",
-			"caption": "Asad"
+			"caption": "<h2 class=\"caption__title\">Asad</h2>"
 		},
 		{
 			"image": "charlie-finn.jpg",
-			"caption": "Charlie & Finn"
+			"caption": "<h2 class=\"caption__title\">Charlie & Finn</h2>"
 		},
 		{
 			"image": "farouk.jpg",
-			"caption": "Farouk"
+			"caption": "<h2 class=\"caption__title\">Farouk</h2>"
 		},
 		{
 			"image": "hyder.jpg",
-			"caption": "Hyder"
+			"caption": "<h2 class=\"caption__title\">Hyder</h2>"
 		},
 		{
 			"image": "leila.jpg",
-			"caption": "Leila"
+			"caption": "<h2 class=\"caption__title\">Leila</h2>"
 		},
 		{
 			"image": "max.jpg",
-			"caption": "Max"
+			"caption": "<h2 class=\"caption__title\">Max</h2>"
 		},
 		{
 			"image": "mia.jpg",
-			"caption": "Mia"
+			"caption": "<h2 class=\"caption__title\">Mia</h2>"
 		},
 		{
 			"image": "navid.jpg",
-			"caption": "Navid"
+			"caption": "<h2 class=\"caption__title\">Navid</h2>"
 		},
 		{
 			"image": "nosrat.jpg",
-			"caption": "Nosrat"
+			"caption": "<h2 class=\"caption__title\">Nosrat</h2>"
 		},
 		{
 			"image": "samee.jpg",
-			"caption": "Samee"
+			"caption": "<h2 class=\"caption__title\">Samee</h2>"
 		},
 		{
 			"image": "sarah.jpg",
-			"caption": "Sarah"
+			"caption": "<h2 class=\"caption__title\">Sarah</h2>"
 		},
 		{
 			"image": "sarge.jpg",
-			"caption": "Sarge"
+			"caption": "<h2 class=\"caption__title\">Sarge</h2>"
 		},
 		{
 			"image": "shaz.jpg",
-			"caption": "Shaz"
+			"caption": "<h2 class=\"caption__title\">Shaz</h2>"
 		},
 		{
 			"image": "sophia.jpg",
-			"caption": "Sophia"
+			"caption": "<h2 class=\"caption__title\">Sophia</h2>"
 		},
 		{
 			"image": "sye.jpg",
-			"caption": "Sye"
+			"caption": "<h2 class=\"caption__title\">Sye</h2>"
 		},
 		{
 			"image": "zaki.jpg",
-			"caption": "Zaki"
+			"caption": "<h2 class=\"caption__title\">Zaki</h2>"
 		},
 		{
 			"image": "akbar.jpg",
-			"caption": "Akbar"
+			"caption": "<h2 class=\"caption__title\">Akbar</h2>"
 		},
 		{
 			"image": "placeholder.jpg",
-			"caption": ""
+			"caption": "<h2 class=\"caption__title\"></h2>"
 		}
 	],
 	"real": [
