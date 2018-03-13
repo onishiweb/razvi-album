@@ -14,14 +14,10 @@ function initFancybox() {
 		// Buttons will be created using templates from `btnTpl` option
 		// and they will be placed into toolbar (class="fancybox-toolbar"` element)
 		buttons : [
-			// 'slideShow',
-			// 'fullScreen',
-			// 'thumbs',
-			// 'share',
-			//'download',
-			//'zoom',
 			'close'
 		],
+
+        idleTime : 100,
 
 		// Disable right-click and use simple image protection for images
 		protect : true,
@@ -65,7 +61,7 @@ function updateImages(imageData, category) {
             var def = $.Deferred();
         	var imagePath = 'images/';
 
-        	if (imageData[key].image !== 'placeholder.jpg') {
+        	if (imageData[key].image !== 'placeholder.jpg?asd') {
         		imagePath+= category + '/';
         	}
 
@@ -106,7 +102,7 @@ $(document).ready(function() {
 	initFancybox();
 
     // Load images list JSON file
-    $.getJSON( "imageList.json", function( data ) {
+    $.getJSON( "imageList.json?asfas", function( data ) {
         // retreive and randomise array:
         var imageData = Shuffle(data['home']);
 
