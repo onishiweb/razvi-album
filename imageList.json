@@ -2,23 +2,23 @@
 	"home": [
 		{
 			"image": "abid.jpg",
-			"caption": "Abid"	
+			"caption": "Abid"
 		},
 		{
 			"image": "adam.jpg",
-			"caption": "Adam"	
+			"caption": "Adam"
 		},
 		{
 			"image": "asad.jpg",
-			"caption": "Asad"	
+			"caption": "Asad"
 		},
 		{
 			"image": "charlie-finn.jpg",
-			"caption": "Charlie & Finn"	
+			"caption": "Charlie & Finn"
 		},
 		{
 			"image": "farouk.jpg",
-			"caption": "Farouk"	
+			"caption": "Farouk"
 		},
 		{
 			"image": "hyder.jpg",
@@ -30,19 +30,19 @@
 		},
 		{
 			"image": "max.jpg",
-			"caption": "Max"	
+			"caption": "Max"
 		},
 		{
 			"image": "mia.jpg",
-			"caption": "Mia"	
+			"caption": "Mia"
 		},
 		{
 			"image": "navid.jpg",
-			"caption": "Navid"	
+			"caption": "Navid"
 		},
 		{
-			"image": "nusrat.jpg",
-			"caption": "Nusrat"	
+			"image": "nosrat.jpg",
+			"caption": "Nosrat"
 		},
 		{
 			"image": "samee.jpg",
@@ -50,7 +50,7 @@
 		},
 		{
 			"image": "sarah.jpg",
-			"caption": "Sarah"	
+			"caption": "Sarah"
 		},
 		{
 			"image": "sarge.jpg",
@@ -58,127 +58,135 @@
 		},
 		{
 			"image": "shaz.jpg",
-			"caption": "Shaz"	
+			"caption": "Shaz"
 		},
 		{
 			"image": "sophia.jpg",
-			"caption": "Sophia"	
+			"caption": "Sophia"
 		},
 		{
 			"image": "sye.jpg",
-			"caption": "Sye"	
+			"caption": "Sye"
 		},
 		{
 			"image": "zaki.jpg",
-			"caption": "Zaki"	
+			"caption": "Zaki"
 		},
 		{
 			"image": "placeholder.jpg",
-			"caption": ""	
+			"caption": ""
+		},
+		{
+			"image": "placeholder.jpg",
+			"caption": ""
 		}
 	],
 	"real": [
 		{
 			"image": "abid.jpg",
-			"caption": "Abid / Farouk: I worded this as something you like to do and his immediate answer was going out to lunch"	
+			"caption": "Abid / Farouk: I worded this as something you like to do and his immediate answer was going out to lunch"
 		},
 		{
 			"image": "adam.jpg",
-			"caption": "Adam: My feelings for this beautiful person who gives me strength and makes me want to be a better, more loving and open person everyday."	
+			"caption": "Adam: My feelings for this beautiful person who gives me strength and makes me want to be a better, more loving and open person everyday."
 		},
 		{
 			"image": "alei.jpg",
-			"caption": "Alei: This is a photo of the youngest member of the household, baby Reza, and the oldest, our Chacha. Nothing is realer and more genuine than family and our love for each other."	
+			"caption": "Alei: This is a photo of the youngest member of the household, baby Reza, and the oldest, our Chacha. Nothing is realer and more genuine than family and our love for each other."
 		},
 		{
 			"image": "asad.jpg",
-			"caption": "Asad: they are my reality, although a few years old, I love this picture because, simply, to me, it represents the individuality of each of them, as well as the beauty of the whole."	
+			"caption": "Asad: they are my reality, although a few years old, I love this picture because, simply, to me, it represents the individuality of each of them, as well as the beauty of the whole."
 		},
 		{
 			"image": "farouk.jpg",
-			"caption": "Farouk: Back in July 2007, I was playing a friendly tennis match with Jimmi a good friend of mine, after about 45 minutes of play he suddenly collapsed on court just as he was about to serve for the 1st set (nothing new there), he had had a heart attack, I ran to him and saw that he had no movement, immediately dialled 999 for an ambulance, fortunately a paramedic arrived within 5 minutes, during which time I continued to receive instruction from the 999 handler, and was told to clasp my hands tightly together and press down hard on his heart at regular intervals. When the paramedic arrived she immediately placed the defibrillator on his chest to try and shock the heart back into action, which she did this on several occasions. A couple of minutes later a full ambulance crew arrived and took over, and he lay on court for a further 20 minutes whilst they also continued treatment. He was then taken off in the ambulance and had technically died en route as he arrived at St.Georges A&E. He was immediately rushed into the resuscitation unit and revived, but spent the next 3 months in intensive care, followed by a further 6 months in a rehab unit. However, brain damage had occurred causing both short term and long term memory loss. Jimmi managed though by writing down all the tasks he had to do and had done in a diary, which became his bible. During this period his wife was having fertility treatment as they had been trying to have children and she did conceive twin girls, and although he had had a defibrillator connected to his heart which kicked in when necessary and kept him alive for a further 3 years, Jimmi sadly passed away 2 weeks before the twins 2nd birthday. The picture which you are looking at is his legacy, this is as real as it gets."	
+			"caption": "Farouk: Back in July 2007, I was playing a friendly tennis match with Jimmi a good friend of mine, after about 45 minutes of play he suddenly collapsed on court just as he was about to serve for the 1st set (nothing new there), he had had a heart attack, I ran to him and saw that he had no movement, immediately dialled 999 for an ambulance, fortunately a paramedic arrived within 5 minutes, during which time I continued to receive instruction from the 999 handler, and was told to clasp my hands tightly together and press down hard on his heart at regular intervals. When the paramedic arrived she immediately placed the defibrillator on his chest to try and shock the heart back into action, which she did this on several occasions. A couple of minutes later a full ambulance crew arrived and took over, and he lay on court for a further 20 minutes whilst they also continued treatment. He was then taken off in the ambulance and had technically died en route as he arrived at St.Georges A&E. He was immediately rushed into the resuscitation unit and revived, but spent the next 3 months in intensive care, followed by a further 6 months in a rehab unit. However, brain damage had occurred causing both short term and long term memory loss. Jimmi managed though by writing down all the tasks he had to do and had done in a diary, which became his bible. During this period his wife was having fertility treatment as they had been trying to have children and she did conceive twin girls, and although he had had a defibrillator connected to his heart which kicked in when necessary and kept him alive for a further 3 years, Jimmi sadly passed away 2 weeks before the twins 2nd birthday. The picture which you are looking at is his legacy, this is as real as it gets."
 		},
 		{
 			"image": "hyder.jpg",
-			"caption": "Hyder: Family. This collage in our old kitchen was a nice reminder."	
+			"caption": "Hyder: Family. This collage in our old kitchen was a nice reminder."
 		},
 		{
 			"image": "leila.jpg",
-			"caption": "Leila: I stopped and took a photo of this as it emphasised 'real life' for someone. Homelessness is proving to be extremely common and unfortunately has become a sad reality on our streets."	
+			"caption": "Leila: I stopped and took a photo of this as it emphasised 'real life' for someone. Homelessness is proving to be extremely common and unfortunately has become a sad reality on our streets."
 		},
 		{
 			"image": "max.jpg",
-			"caption": "Max: There is no need for words her eyes can express much more . Trust, happiness,anger,  sadness"	
+			"caption": "Max: There is no need for words her eyes can express much more . Trust, happiness,anger,  sadness"
 		},
 		{
 			"image": "mia.jpg",
-			"caption": "Mia: A real snapshot of life with 3 children."	
+			"caption": "Mia: A real snapshot of life with 3 children."
 		},
 		{
 			"image": "navid.jpg",
-			"caption": "Navid: nature"	
+			"caption": "Navid: nature"
 		},
 		{
-			"image": "nusrat.jpg",
-			"caption": "Nusrat: the beauty and power of nature."	
+			"image": "nosrat.jpg",
+			"caption": "nosrat: the beauty and power of nature."
 		},
 		{
 			"image": "samee.jpg",
-			"caption": "Samee: tom and xav- they don’t know how to bullshit."	
+			"caption": "Samee: tom and xav- they don’t know how to bullshit."
 		},
 		{
 			"image": "sarah.jpg",
-			"caption": "Sarah / Nosrat: Nature is so real & I love it. It’s a big natural park where usually people go walking , running & jogging. Sarah loves to walk where people are."	
+			"caption": "Sarah / Nosrat: Nature is so real & I love it. It’s a big natural park where usually people go walking , running & jogging. Sarah loves to walk where people are."
 		},
 		{
 			"image": "sarge.jpg",
-			"caption": "Sarge: Something real to me in this world has to be mother & child bonding. It’s not just real but so pure and loving that’s just cannot be described"	
+			"caption": "Sarge: Something real to me in this world has to be mother & child bonding. It’s not just real but so pure and loving that’s just cannot be described"
 		},
 		{
 			"image": "shaz.jpg",
-			"caption": "Shaz: My father not being with me, is very real and felt every day."	
+			"caption": "Shaz: My father not being with me, is very real and felt every day."
 		},
 		{
 			"image": "sophia.jpg",
-			"caption": "Sophia: These kids were on a school trip and were being ushered out of Victoria Station by their teachers. Their safety vests were sweet and it reminded me of what it was like to be young and vulnerable and have total faith in an adult’s ability to protect you."	
+			"caption": "Sophia: These kids were on a school trip and were being ushered out of Victoria Station by their teachers. Their safety vests were sweet and it reminded me of what it was like to be young and vulnerable and have total faith in an adult’s ability to protect you."
 		},
 		{
 			"image": "sye.jpg",
-			"caption": "Sye: family"	
+			"caption": "Sye: family"
 		},
 		{
 			"image": "zaki.jpg",
-			"caption": "Zaki: spending 30+ hours in a hospital room - seeing your wife in immense pain but being incredibly proud of how strong she is being. and then holding your baby for the first time at the end of it. felt pretty real...."	
+			"caption": "Zaki: spending 30+ hours in a hospital room - seeing your wife in immense pain but being incredibly proud of how strong she is being. and then holding your baby for the first time at the end of it. felt pretty real...."
 		},
 		{
 			"image": "charlie-finn.jpg",
-			"caption": "Charlie & Finn: Flowers"	
+			"caption": "Charlie & Finn: Flowers"
+		},
+		{
+			"image": "akbar.jpg",
+			"caption": "Akbar: My love for her."
 		}
 	],
 	"challenge": [
 		{
 			"image": "placeholder.jpg",
-			"caption": "Abid / Farouk: I had to reword how I asked this question to something you don't like doing and find difficult to do. Abid's answer was sums as they require concentration, which he finds hard. Also when people are annoying me. And shaving – he has help with this"	
+			"caption": "Abid / Farouk: I had to reword how I asked this question to something you don't like doing and find difficult to do. Abid's answer was sums as they require concentration, which he finds hard. Also when people are annoying me. And shaving – he has help with this"
 		},
 		{
 			"image": "adam.jpg",
-			"caption": "Adam: Don’t get me wrong - this photo absolutely represents a happy memory! I have included it as ‘challenging’ however, as it also represents how little I know about my roots (unlike my wonderful relatives in NYC!). I wish I had a greater sense of belonging and a closer connection to my history on both sides of my family."	
+			"caption": "Adam: Don’t get me wrong - this photo absolutely represents a happy memory! I have included it as ‘challenging’ however, as it also represents how little I know about my roots (unlike my wonderful relatives in NYC!). I wish I had a greater sense of belonging and a closer connection to my history on both sides of my family."
 		},
 		{
 			"image": "alei.jpg",
-			"caption": "Alei: I recently received my learner's permit from the DMV and my road test is in May. I've been learning to drive, with my mom, dad and cousins all teaching me. It isn't as easy as GTA made it look, but it isn't that bad either."	
+			"caption": "Alei: I recently received my learner's permit from the DMV and my road test is in May. I've been learning to drive, with my mom, dad and cousins all teaching me. It isn't as easy as GTA made it look, but it isn't that bad either."
 		},
 		{
 			"image": "asad.jpg",
-			"caption": "Asad: my time for completing the Brighton half marathon with Simon (Jessica's husband). I have to admit to being quite pleased with it as I had done next to no preparation and very little running in the weeks leading up to it. If I'm honest had it not been for the fact that I had committed to Simon to run it I'm sure I would have backed out. Running / jogging is something that I have done for a some years and it is something that I recall doing at junior school, so about age 9 or 10, when I would run to school from where we used to live (about three quarters of a mile) and time myself for the sheer hell of it. Going back 45 years you didn't see too many brown people running unless there was a herd of DM wearing, knuckle duster wielding yob skinheads chasing them! ... but I enjoyed running and seemed to remember being picked for the cross country school team (only once!). It is a challenge nowadays as the heart still wants to get out there and run and run and run but the body simply rolls over in bed and pulls the duvet over my head! I guess it comes as no surprise to know that Forrest Gump is one of my all time favourite films... some might say I remind them of him!"	
+			"caption": "Asad: my time for completing the Brighton half marathon with Simon (Jessica's husband). I have to admit to being quite pleased with it as I had done next to no preparation and very little running in the weeks leading up to it. If I'm honest had it not been for the fact that I had committed to Simon to run it I'm sure I would have backed out. Running / jogging is something that I have done for a some years and it is something that I recall doing at junior school, so about age 9 or 10, when I would run to school from where we used to live (about three quarters of a mile) and time myself for the sheer hell of it. Going back 45 years you didn't see too many brown people running unless there was a herd of DM wearing, knuckle duster wielding yob skinheads chasing them! ... but I enjoyed running and seemed to remember being picked for the cross country school team (only once!). It is a challenge nowadays as the heart still wants to get out there and run and run and run but the body simply rolls over in bed and pulls the duvet over my head! I guess it comes as no surprise to know that Forrest Gump is one of my all time favourite films... some might say I remind them of him!"
 		},
 		{
 			"image": "farouk.jpg",
-			"caption": "Farouk: The final poignant words I spoke to both Ami and Baba on their deathbed was for them to not worry about Abid, and that I would look after him. This can be quite challenging at times, particularly when it comes to the daily 5.30 pm phone call as I know how anxious he can become if I am not there when he calls. More challenging to this though, was the many years I kept looking trying to find a solution to his mental health problem, when one day \"out of the blue\" Ruth told me that there is no miracle cure, and that I should just take one day at a time, even one minute at a time, and that that is all you can do. That day heralded the dawning of a new understanding and realisation on my part, which has probably helped us both."	
+			"caption": "Farouk: The final poignant words I spoke to both Ami and Baba on their deathbed was for them to not worry about Abid, and that I would look after him. This can be quite challenging at times, particularly when it comes to the daily 5.30 pm phone call as I know how anxious he can become if I am not there when he calls. More challenging to this though, was the many years I kept looking trying to find a solution to his mental health problem, when one day \"out of the blue\" Ruth told me that there is no miracle cure, and that I should just take one day at a time, even one minute at a time, and that that is all you can do. That day heralded the dawning of a new understanding and realisation on my part, which has probably helped us both."
 		},
 		{
 			"image": "hyder.jpg",
-			"caption": "Hyder: Finding time to spend on all of my passions, not because of a lack of motivation."	
+			"caption": "Hyder: Finding time to spend on all of my passions, not because of a lack of motivation."
 		},
 		{
 			"image": "leila.jpg",
@@ -186,151 +194,159 @@
 		},
 		{
 			"image": "max.jpg",
-			"caption": "Max: Trying to find laptop after two days of having moved"	
+			"caption": "Max: Trying to find laptop after two days of having moved"
 		},
 		{
 			"image": "mia.jpg",
-			"caption": "Mia: The most challenging was a toss up between taming a 2 year old or cooking...! So here is a picture of Lila having a tantrum in the kitchen.. hoping it captures both!"	
+			"caption": "Mia: The most challenging was a toss up between taming a 2 year old or cooking...! So here is a picture of Lila having a tantrum in the kitchen.. hoping it captures both!"
 		},
 		{
 			"image": "navid.jpg",
-			"caption": "Navid: always having to travel between home and work"	
+			"caption": "Navid: always having to travel between home and work"
 		},
 		{
-			"image": "nusrat.jpg",
-			"caption": "Nusrat: Having studied and passed my diploma for Homeopathy while raising three kids and being challenged to ensure I give them and friends the right remedy to treat them for their medical problems."	
+			"image": "nosrat.jpg",
+			"caption": "nosrat: Having studied and passed my diploma for Homeopathy while raising three kids and being challenged to ensure I give them and friends the right remedy to treat them for their medical problems."
 		},
 		{
 			"image": "samee.jpg",
-			"caption": "Samee: mentally holding it down in this town."	
+			"caption": "Samee: mentally holding it down in this town."
 		},
 		{
 			"image": "sarah.jpg",
-			"caption": "Sarah / Nosrat: I love my brothers taking my pics. That day Hyder took me for a drive & he took my pic & showed me how snap chat works. It was challenging for me."	
+			"caption": "Sarah / Nosrat: I love my brothers taking my pics. That day Hyder took me for a drive & he took my pic & showed me how snap chat works. It was challenging for me."
 		},
 		{
 			"image": "sarge.jpg",
-			"caption": "Sarge: Challenging to me is to have the courage to stand up against brutal force and defend your rights"	
+			"caption": "Sarge: Challenging to me is to have the courage to stand up against brutal force and defend your rights"
 		},
 		{
 			"image": "shaz.jpg",
-			"caption": "Shaz: NYC Metro Area Winters, especially when the river freezes! I need to move to a warmer climate!"	
+			"caption": "Shaz: NYC Metro Area Winters, especially when the river freezes! I need to move to a warmer climate!"
 		},
 		{
 			"image": "sophia.jpg",
-			"caption": "Sophia: Finding the dedication/drive to mentally commit myself to studying is something I find challenging. When you are snowed under with work the library begins to suck the life out of you."	
+			"caption": "Sophia: Finding the dedication/drive to mentally commit myself to studying is something I find challenging. When you are snowed under with work the library begins to suck the life out of you."
 		},
 		{
 			"image": "sye.jpg",
-			"caption": "Sye: my inspiration, still brings tears to my eyes to remember the pain she went through"	
+			"caption": "Sye: my inspiration, still brings tears to my eyes to remember the pain she went through"
 		},
 		{
 			"image": "zaki.jpg",
-			"caption": "Zaki: dropping off theo at nursey. he often cries and it takes alot of inner strength to simply hand him over and walk away, despite knowing he'll be absolutely fine once i leave and have a great day."	
+			"caption": "Zaki: dropping off theo at nursey. he often cries and it takes alot of inner strength to simply hand him over and walk away, despite knowing he'll be absolutely fine once i leave and have a great day."
 		},
 		{
 			"image": "charlie-finn.jpg",
-			"caption": "Charlie & Finn: Homework"	
+			"caption": "Charlie & Finn: Homework"
+		},
+		{
+			"image": "akbar.jpg",
+			"caption": "Akbar: Not being able to see your face, to hear your voice."
 		}
 	],
 	"comfort": [
 		{
 			"image": "abid.jpg",
-			"caption": "Abid / Farouk: Sorry I can't recall exactly how I put this to Abid, but his response after I asked him where we had been this morning, was going to graveyard, put flowers on the graves and do prayers. Also said we all got to die one day, me, you, Ruth, Tallulah - not yet though."	
+			"caption": "Abid / Farouk: Sorry I can't recall exactly how I put this to Abid, but his response after I asked him where we had been this morning, was going to graveyard, put flowers on the graves and do prayers. Also said we all got to die one day, me, you, Ruth, Tallulah - not yet though."
 		},
 		{
 			"image": "adam.jpg",
-			"caption": "Adam: Whenever I’m low, stressed and my anxieties get the better of me, getting out of the city and into nature is the a soothing and essential remedy.  One day I hope to live by the sea."	
+			"caption": "Adam: Whenever I’m low, stressed and my anxieties get the better of me, getting out of the city and into nature is the a soothing and essential remedy.  One day I hope to live by the sea."
 		},
 		{
 			"image": "alei.jpg",
-			"caption": "Alei: My friends and I always hang out on the boardwalk by my apartment building when it isn't too cold. Spending time with them with the view of the river is always comforting."	
+			"caption": "Alei: My friends and I always hang out on the boardwalk by my apartment building when it isn't too cold. Spending time with them with the view of the river is always comforting."
 		},
 		{
 			"image": "asad.jpg",
-			"caption": "Asad: from the beginning Samee and Sophia have had a bond which although probably not the typical brother sister relationship is nonetheless so special. This is true today as it was then.... real as well as providing great comfort."	
+			"caption": "Asad: from the beginning Samee and Sophia have had a bond which although probably not the typical brother sister relationship is nonetheless so special. This is true today as it was then.... real as well as providing great comfort."
 		},
 		{
 			"image": "farouk.jpg",
-			"caption": "Farouk: No matter what the weather or what sort of day you've had, if you want to experience unconditional love and loyalty - get a dog!"	
+			"caption": "Farouk: No matter what the weather or what sort of day you've had, if you want to experience unconditional love and loyalty - get a dog!"
 		},
 		{
 			"image": "hyder.jpg",
-			"caption": "Hyder: Having a camera on my smartphone with me at all times to take photos of random moments. This was out in the morning to get bread after it had rained."	
+			"caption": "Hyder: Having a camera on my smartphone with me at all times to take photos of random moments. This was out in the morning to get bread after it had rained."
 		},
 		{
 			"image": "leila.jpg",
-			"caption": "Leila: Being the most comfortable around your family and the ones you love and laugh with."	
+			"caption": "Leila: Being the most comfortable around your family and the ones you love and laugh with."
 		},
 		{
 			"image": "max.jpg",
-			"caption": "Max: In todays world with all its stress and complications that we have, its comforting to know that when two innocent people meet unaffected by other human traits that are considered normal just the touch and closeness of being together can bring happiness."	
+			"caption": "Max: In todays world with all its stress and complications that we have, its comforting to know that when two innocent people meet unaffected by other human traits that are considered normal just the touch and closeness of being together can bring happiness."
 		},
 		{
 			"image": "mia.jpg",
-			"caption": "Mia: Always my comfort."	
+			"caption": "Mia: Always my comfort."
 		},
 		{
 			"image": "navid.jpg",
-			"caption": "Navid: sleep"	
+			"caption": "Navid: sleep"
 		},
 		{
 			"image": "placeholder.jpg",
-			"caption": ""	
+			"caption": ""
 		},
 		{
 			"image": "samee.jpg",
-			"caption": "Samee: sensation of running cold water on a single wrist keeps me grounded in times of crises"	
+			"caption": "Samee: sensation of running cold water on a single wrist keeps me grounded in times of crises"
 		},
 		{
 			"image": "placeholder.jpg",
-			"caption": ""	
+			"caption": ""
 		},
 		{
 			"image": "sarge.jpg",
-			"caption": "Sarge: Recent students massacre at Marjory Stonemen Douglas High School also showed a truly human side, which is very comforting in this era"	
+			"caption": "Sarge: Recent students massacre at Marjory Stonemen Douglas High School also showed a truly human side, which is very comforting in this era"
 		},
 		{
 			"image": "shaz.jpg",
-			"caption": "Shaz: Memories of my dad"	
+			"caption": "Shaz: Memories of my dad"
 		},
 		{
 			"image": "sophia.jpg",
-			"caption": "Sophia: Whenever there is a nice sunset I will take a photo from my window. I have a nice view of a church and love to see the sky change colour. (I’m just really into sunsets)."	
+			"caption": "Sophia: Whenever there is a nice sunset I will take a photo from my window. I have a nice view of a church and love to see the sky change colour. (I’m just really into sunsets)."
 		},
 		{
 			"image": "sye.jpg",
-			"caption": "Sye: glass of bubbly"	
+			"caption": "Sye: glass of bubbly"
 		},
 		{
 			"image": "zaki.jpg",
-			"caption": "Zaki: homemade shepherds pie on a winters evening!"	
+			"caption": "Zaki: homemade shepherds pie on a winters evening!"
 		},
 		{
 			"image": "charlie-finn.jpg",
-			"caption": "Charlie & Finn: Our family"	
+			"caption": "Charlie & Finn: Our family"
+		},
+		{
+			"image": "akbar.jpg",
+			"caption": "Akbar: Family."
 		}
 	],
 	"fake": [
 		{
 			"image": "placeholder.jpg",
-			"caption": ""	
+			"caption": ""
 		},
 		{
 			"image": "adam.jpg",
-			"caption": "Adam: Most media. Most history. Most news. Most politics. It’s not a ‘free paper’ people! That shit’s costing you your whole damn life. If we keep swallowing the same bite-size crap they feed us, we’ll all end up sick with the same disease."	
+			"caption": "Adam: Most media. Most history. Most news. Most politics. It’s not a ‘free paper’ people! That shit’s costing you your whole damn life. If we keep swallowing the same bite-size crap they feed us, we’ll all end up sick with the same disease."
 		},
 		{
 			"image": "alei.jpg",
-			"caption": "Alei: This is outside the American Capitol Building. What can be more fake and dishonest than the corruption and hypocrisy in government?"	
+			"caption": "Alei: This is outside the American Capitol Building. What can be more fake and dishonest than the corruption and hypocrisy in government?"
 		},
 		{
 			"image": "asad.jpg",
-			"caption": ""	
+			"caption": ""
 		},
 		{
 			"image": "farouk.jpg",
-			"caption": "Farouk: Politicians of all hues and from all countries making fake promises, and telling untruths to suit their own cause, knowingly it to be bullshit. One of the biggest lies of recent times being, when George Bush and Tony Blair claimed that Saddam Hussan had weapons of mass destruction which could be mobilised for action in 45 minutes. This pretence led to the invasion of Iraq and in doing so probably created more terrorists and wars throughout the world. Brexit in my opinion, is another big lie, and whilst not causing the deaths of tens of thousands of people, will effect many millions in the years ahead. But I guess like most things time will tell whether this will be to the detriment of the masses or not."	
+			"caption": "Farouk: Politicians of all hues and from all countries making fake promises, and telling untruths to suit their own cause, knowingly it to be bullshit. One of the biggest lies of recent times being, when George Bush and Tony Blair claimed that Saddam Hussan had weapons of mass destruction which could be mobilised for action in 45 minutes. This pretence led to the invasion of Iraq and in doing so probably created more terrorists and wars throughout the world. Brexit in my opinion, is another big lie, and whilst not causing the deaths of tens of thousands of people, will effect many millions in the years ahead. But I guess like most things time will tell whether this will be to the detriment of the masses or not."
 		},
 		{
 			"image": "hyder.jpg",
@@ -338,523 +354,551 @@
 		},
 		{
 			"image": "leila.jpg",
-			"caption": "Leila: The amount of bullshit happening in the world and yet the same tragic events continuing to occur"	
+			"caption": "Leila: The amount of bullshit happening in the world and yet the same tragic events continuing to occur"
 		},
 		{
 			"image": "max.jpg",
-			"caption": "Max: I think the photo says it all."	
+			"caption": "Max: I think the photo says it all."
 		},
 		{
 			"image": "mia.jpg",
-			"caption": "Mia: Perhaps the most 'bullshit' thing I've seen for a while. And the epitome of middle class south London!"	
+			"caption": "Mia: Perhaps the most 'bullshit' thing I've seen for a while. And the epitome of middle class south London!"
 		},
 		{
 			"image": "navid.jpg",
-			"caption": "Navid: Thinking you can't overcome something bad, nomatter how bad something feels or is"	
+			"caption": "Navid: Thinking you can't overcome something bad, nomatter how bad something feels or is"
 		},
 		{
 			"image": "placeholder.jpg",
-			"caption": ""	
+			"caption": ""
 		},
 		{
 			"image": "samee.jpg",
-			"caption": "Samee: Why are we ok with havin other humans telling us which vegetables we are allowed to grow."	
+			"caption": "Samee: Why are we ok with havin other humans telling us which vegetables we are allowed to grow."
 		},
 		{
 			"image": "placeholder.jpg",
-			"caption": ""	
+			"caption": ""
 		},
 		{
 			"image": "sarge.jpg",
-			"caption": "Sarge: A £50 note is the best example of something fake encountered by me. The note has been retained by the bank pending further investigations, got hit where it hurts."	
+			"caption": "Sarge: A £50 note is the best example of something fake encountered by me. The note has been retained by the bank pending further investigations, got hit where it hurts."
 		},
 		{
 			"image": "shaz.jpg",
-			"caption": "Shaz: The Trump presidency!"	
+			"caption": "Shaz: The Trump presidency!"
 		},
 		{
 			"image": "sophia.jpg",
-			"caption": "Sophia: This is the current MacDonald's advertising campaign. They have turned the IMAX at Waterloo into a giant Big Mac. Constantly having consumer/commercial products and brands shoved in your face is exhausting. London is turning into Times Square."	
+			"caption": "Sophia: This is the current MacDonald's advertising campaign. They have turned the IMAX at Waterloo into a giant Big Mac. Constantly having consumer/commercial products and brands shoved in your face is exhausting. London is turning into Times Square."
 		},
 		{
 			"image": "placeholder.jpg",
-			"caption": ""	
+			"caption": ""
 		},
 		{
 			"image": "zaki.jpg",
-			"caption": "Zaki: the presidential appointment of Donald Trump is bullshit."	
+			"caption": "Zaki: the presidential appointment of Donald Trump is bullshit."
 		},
 		{
 			"image": "placeholder.jpg",
-			"caption": ""	
+			"caption": ""
+		},
+		{
+			"image": "akbar.jpg",
+			"caption": "Akbar: He’s not actually pondering deep in thought."
 		}
 	],
 	"funny": [
 		{
 			"image": "abid.jpg",
-			"caption": "Abid / Farouk: Making jokes - when we left Beech this morning he told the staff to not forget to leave him a  sandwich - which they did find funny. Also said see you next year and never again!"	
+			"caption": "Abid / Farouk: Making jokes - when we left Beech this morning he told the staff to not forget to leave him a  sandwich - which they did find funny. Also said see you next year and never again!"
 		},
 		{
 			"image": "adam.jpg",
-			"caption": "Adam: This sweet little weirdo makes me laugh loads! Cats are such peculiar creatures with unique personalities who definitely know all sorts of mystical things that us mere humans don't."	
+			"caption": "Adam: This sweet little weirdo makes me laugh loads! Cats are such peculiar creatures with unique personalities who definitely know all sorts of mystical things that us mere humans don't."
 		},
 		{
 			"image": "alei.jpg",
-			"caption": "Alei: Last week at Kumi's engagement, he kept trying to fix his pants because Ferwah kept yelling at him. It was probably funnier if you were there."	
+			"caption": "Alei: Last week at Kumi's engagement, he kept trying to fix his pants because Ferwah kept yelling at him. It was probably funnier if you were there."
 		},
 		{
 			"image": "asad.jpg",
-			"caption": "Asad: there are lots of photos / moments that make me laugh, this one is a particular favourite of mine as it was a pivotal moment, one when I realised that Samee was actually very funny and had matured in a way I had not realised. It is also the moment when I realised that I genuinely liked his hair and how unique and brave Samee is."	
+			"caption": "Asad: there are lots of photos / moments that make me laugh, this one is a particular favourite of mine as it was a pivotal moment, one when I realised that Samee was actually very funny and had matured in a way I had not realised. It is also the moment when I realised that I genuinely liked his hair and how unique and brave Samee is."
 		},
 		{
 			"image": "farouk.jpg",
-			"caption": "Farouk: Although the picture only shows a list of numbers on a computer screen, each one represents wonderful, and although perhaps not necessarily funny at the time, memories of my children, which when I look back on now make me chuckle to myself. Adam with all his puppet shows, Zaki doing his infamous impression of Joseph in the Amazing Technicolour Dreamcoat, Leila kicking her bike in frustration when learning to ride it, a family day out on the seaside with Ami and Baba and several other relatives, some from Pakistan, on the windy beach dipping their toes in the sea, but getting more than what they had bargained for, as well as bike riding but forgetting to watch out for the concrete pillars!"	
+			"caption": "Farouk: Although the picture only shows a list of numbers on a computer screen, each one represents wonderful, and although perhaps not necessarily funny at the time, memories of my children, which when I look back on now make me chuckle to myself. Adam with all his puppet shows, Zaki doing his infamous impression of Joseph in the Amazing Technicolour Dreamcoat, Leila kicking her bike in frustration when learning to ride it, a family day out on the seaside with Ami and Baba and several other relatives, some from Pakistan, on the windy beach dipping their toes in the sea, but getting more than what they had bargained for, as well as bike riding but forgetting to watch out for the concrete pillars!"
 		},
 		{
 			"image": "hyder.jpg",
-			"caption": "Hyder: For some time I've always found it amusing to see car license plates that spell out something - in it's this case the German word \"Witz\" which means joke in English."	
+			"caption": "Hyder: For some time I've always found it amusing to see car license plates that spell out something - in it's this case the German word \"Witz\" which means joke in English."
 		},
 		{
 			"image": "leila.jpg",
-			"caption": "Leila: This boy makes me laugh every single day."	
+			"caption": "Leila: This boy makes me laugh every single day."
 		},
 		{
 			"image": "placeholder.jpg",
-			"caption": ""	
+			"caption": ""
 		},
 		{
 			"image": "mia.jpg",
-			"caption": "Mia: Watching Finn watch football always makes me laugh. Here he is celebrating Man U score against Chelsea."	
+			"caption": "Mia: Watching Finn watch football always makes me laugh. Here he is celebrating Man U score against Chelsea."
 		},
 		{
 			"image": "navid.jpg",
-			"caption": "Navid: painted glass that I made as a kid and thinking it actually looked nice and that I had talent"	
+			"caption": "Navid: painted glass that I made as a kid and thinking it actually looked nice and that I had talent"
 		},
 		{
 			"image": "placeholder.jpg",
-			"caption": ""	
+			"caption": ""
 		},
 		{
 			"image": "samee.jpg",
-			"caption": "Samee: it only counts if it’s validated online by likes and feedback."	
+			"caption": "Samee: it only counts if it’s validated online by likes and feedback."
 		},
 		{
 			"image": "placeholder.jpg",
-			"caption": ""	
+			"caption": ""
 		},
 		{
 			"image": "sarge.jpg",
-			"caption": "Sarge: Standup comedy, particularly when it blends absurdity with serious topics like politics/ economy/ social issues"	
+			"caption": "Sarge: Standup comedy, particularly when it blends absurdity with serious topics like politics/ economy/ social issues"
 		},
 		{
 			"image": "shaz.jpg",
-			"caption": "Shaz: Baby Reza playing drums on Nusrat's head."	
+			"caption": "Shaz: Baby Reza playing drums on nosrat's head."
 		},
 		{
 			"image": "sophia.jpg",
-			"caption": "Sophia: This is a giant banana stuck between my friend’s toes. It fit between every one."	
+			"caption": "Sophia: This is a giant banana stuck between my friend’s toes. It fit between every one."
 		},
 		{
 			"image": "sye.jpg",
-			"caption": "Sye: and scary too!"	
+			"caption": "Sye: and scary too!"
 		},
 		{
 			"image": "zaki.jpg",
-			"caption": "Zaki: watching your son eat a cupcake for the very first time. and loving it."	
+			"caption": "Zaki: watching your son eat a cupcake for the very first time. and loving it."
 		},
 		{
 			"image": "charlie-finn.jpg",
-			"caption": "Charlie & Finn: Mr Bean"	
+			"caption": "Charlie & Finn: Mr Bean"
+		},
+		{
+			"image": "akbar.jpg",
+			"caption": "Akbar: Alain says he hates this dog, but the picture would suggest otherwise."
 		}
 	],
 	"like": [
 		{
 			"image": "abid.jpg",
-			"caption": "Abid / Farouk: answered that his favourite thing was listening to Bollywood music which I know he does almost everyday as part of his routine between 3.30 pm and 5.00 pm. He also said that he likes going to Purley Park which is a social club he attends on most Monday's and likes to dance. Bike riding and bowling were also mentioned and these he does on most Wednesday's - weather and staff rota permitting"	
+			"caption": "Abid / Farouk: answered that his favourite thing was listening to Bollywood music which I know he does almost everyday as part of his routine between 3.30 pm and 5.00 pm. He also said that he likes going to Purley Park which is a social club he attends on most Monday's and likes to dance. Bike riding and bowling were also mentioned and these he does on most Wednesday's - weather and staff rota permitting"
 		},
 		{
 			"image": "adam.jpg",
-			"caption": "Adam: When I get time to practice and find my flow, playing guitar is pure joy. I’m never going to be a pro, but I would like to reach a level where I can start writing, playing and maybe performing my own songs."	
+			"caption": "Adam: When I get time to practice and find my flow, playing guitar is pure joy. I’m never going to be a pro, but I would like to reach a level where I can start writing, playing and maybe performing my own songs."
 		},
 		{
 			"image": "alei.jpg",
-			"caption": "Alei: I like hanging out with my friends, whether literally hanging off random brick walls posing for photos or in the middle of the city."	
+			"caption": "Alei: I like hanging out with my friends, whether literally hanging off random brick walls posing for photos or in the middle of the city."
 		},
 		{
 			"image": "asad.jpg",
-			"caption": "Asad: morning seafront run as the sunrises and before the crowds are out. It's my time for myself when with music on I think about everything.... be it past, present or future events, be it family, friends, or business, it is the moment when I don't have to consider anything or anyone in particular and I am anonymous."	
+			"caption": "Asad: morning seafront run as the sunrises and before the crowds are out. It's my time for myself when with music on I think about everything.... be it past, present or future events, be it family, friends, or business, it is the moment when I don't have to consider anything or anyone in particular and I am anonymous."
 		},
 		{
 			"image": "farouk.jpg",
-			"caption": "Farouk: I enjoy playing tennis and although now mostly play only doubles two/three times a week, and apart from giving me some much needed exercise, helps me to refocus my mind and is also a good social sport."	
+			"caption": "Farouk: I enjoy playing tennis and although now mostly play only doubles two/three times a week, and apart from giving me some much needed exercise, helps me to refocus my mind and is also a good social sport."
 		},
 		{
 			"image": "hyder.jpg",
-			"caption": "Hyder: I like exercising, I find it allows to me to just \"switch off\" and take my mind of everything."	
+			"caption": "Hyder: I like exercising, I find it allows to me to just \"switch off\" and take my mind of everything."
 		},
 		{
 			"image": "leila.jpg",
-			"caption": "Leila: As a (guilty) foodie, I enjoy going to markets and experiencing all the different food types on offer. I may not even be hungry at the time but usually that doesn’t stop me as I love the buzz of what’s going on and even better how delicious all the food smells and tastes!"	
+			"caption": "Leila: As a (guilty) foodie, I enjoy going to markets and experiencing all the different food types on offer. I may not even be hungry at the time but usually that doesn’t stop me as I love the buzz of what’s going on and even better how delicious all the food smells and tastes!"
 		},
 		{
 			"image": "placeholder.jpg",
-			"caption": ""	
+			"caption": ""
 		},
 		{
 			"image": "mia.jpg",
-			"caption": "Mia: There are many things I love to do. But nothing more than coming home to my family."	
+			"caption": "Mia: There are many things I love to do. But nothing more than coming home to my family."
 		},
 		{
 			"image": "navid.jpg",
-			"caption": "Navid: fashion"	
+			"caption": "Navid: fashion"
 		},
 		{
-			"image": "nusrat.jpg",
-			"caption": "Nusrat: painting helps me to relax and forget daily stress although I do not get as much time as I would like to develop this hobby."	
+			"image": "nosrat.jpg",
+			"caption": "nosrat: painting helps me to relax and forget daily stress although I do not get as much time as I would like to develop this hobby."
 		},
 		{
 			"image": "samee.jpg",
-			"caption": "Samee: Battlefield. Is a quick feel good serotonin fix, that takes you into the present and takes ur mind away from 24 7 thoughts tellin u to k*ll urself"	
+			"caption": "Samee: Battlefield. Is a quick feel good serotonin fix, that takes you into the present and takes ur mind away from 24 7 thoughts tellin u to k*ll urself"
 		},
 		{
 			"image": "sarah.jpg",
-			"caption": "Sarah / Nosrat: I love shopping. Sarah loves to buy jewelry, clothes and tries to dress up & asks us to take her pic too."	
+			"caption": "Sarah / Nosrat: I love shopping. Sarah loves to buy jewelry, clothes and tries to dress up & asks us to take her pic too."
 		},
 		{
 			"image": "sarge.jpg",
-			"caption": "Sarge: Have always enjoyed doing DIY. Gives me tremendous pleasure in seeing my ideas, putting up shelves, fixing things at home, come to fruition"	
+			"caption": "Sarge: Have always enjoyed doing DIY. Gives me tremendous pleasure in seeing my ideas, putting up shelves, fixing things at home, come to fruition"
 		},
 		{
 			"image": "shaz.jpg",
-			"caption": "Shaz: At the expense of being called a nerd…I LOVE READING!"	
+			"caption": "Shaz: At the expense of being called a nerd…I LOVE READING!"
 		},
 		{
 			"image": "sophia.jpg",
-			"caption": "Sophia: I took this photo whilst out walking my dog in Hove Park. I had just completed an essay deadline and it was a beautiful day when I finally managed to leave the house. Being outside in the sun and open air is something I like doing. I think our local park is nice to chill in."	
+			"caption": "Sophia: I took this photo whilst out walking my dog in Hove Park. I had just completed an essay deadline and it was a beautiful day when I finally managed to leave the house. Being outside in the sun and open air is something I like doing. I think our local park is nice to chill in."
 		},
 		{
 			"image": "sye.jpg",
-			"caption": "Sye: a proud dad"	
+			"caption": "Sye: a proud dad"
 		},
 		{
 			"image": "zaki.jpg",
-			"caption": "Zaki: eating ice cream, preferably in the sun (palm trees optional)"	
+			"caption": "Zaki: eating ice cream, preferably in the sun (palm trees optional)"
 		},
 		{
 			"image": "charlie-finn.jpg",
-			"caption": "Charlie & Finn: Sport"	
+			"caption": "Charlie & Finn: Sport"
+		},
+		{
+			"image": "akbar.jpg",
+			"caption": "Akbar: I like/love playing basketball and this is my favorite basketball player. Part of the reason he is my favorite Basketball player is because of the quote below."
 		}
 	],
 	"power": [
 		{
 			"image": "placeholder.jpg",
-			"caption": ""	
+			"caption": ""
 		},
 		{
 			"image": "adam.jpg",
-			"caption": "Adam: Those moments when you forgot your worries and later on realise what’s important in life. Accepting our flaws and vulnerability is just as important as recognising our strengths and celebrating our triumphs. Accepting our weaknesses makes us stronger. I think it was Darwin that said something about how the strongest of the species are those most adaptable (and sorry Darwin, but may I add…) and those most open and trying their best to adapt to change."	
+			"caption": "Adam: Those moments when you forgot your worries and later on realise what’s important in life. Accepting our flaws and vulnerability is just as important as recognising our strengths and celebrating our triumphs. Accepting our weaknesses makes us stronger. I think it was Darwin that said something about how the strongest of the species are those most adaptable (and sorry Darwin, but may I add…) and those most open and trying their best to adapt to change."
 		},
 		{
 			"image": "alei.jpg",
-			"caption": "Alei: It doesn't matter how young or old you are; I believe faith is the most powerful thing to derive your strength and motivation from."	
+			"caption": "Alei: It doesn't matter how young or old you are; I believe faith is the most powerful thing to derive your strength and motivation from."
 		},
 		{
 			"image": "asad.jpg",
-			"caption": "Asad: Ok so here is one that represents powerful to me..... why? When I look at this it makes me realise (reminds me) that both Samee and Sophia have this link / bond that enables them to connect at many levels without speaking. This is something that is irreplaceable and can't be false, it is only possible if there is a real connection..... this picture was taken when we were in Venice and they (we all) seemed to be in a mood with each other (nothing serious just the normal family getting on each others nerves a bit) .... as we were walking along without any words something clicked between them and hey presto, laugh!"	
+			"caption": "Asad: Ok so here is one that represents powerful to me..... why? When I look at this it makes me realise (reminds me) that both Samee and Sophia have this link / bond that enables them to connect at many levels without speaking. This is something that is irreplaceable and can't be false, it is only possible if there is a real connection..... this picture was taken when we were in Venice and they (we all) seemed to be in a mood with each other (nothing serious just the normal family getting on each others nerves a bit) .... as we were walking along without any words something clicked between them and hey presto, laugh!"
 		},
 		{
 			"image": "farouk.jpg",
-			"caption": "Farouk: The most powerful and surreal events I have ever witnessed in my life are at complete opposite ends of the spectrum. The pictures only capture the recording of the event, but the experience of watching your children's birth and holding your parents hands whilst they take their last breath on this planet, cannot really be put into words."	
+			"caption": "Farouk: The most powerful and surreal events I have ever witnessed in my life are at complete opposite ends of the spectrum. The pictures only capture the recording of the event, but the experience of watching your children's birth and holding your parents hands whilst they take their last breath on this planet, cannot really be put into words."
 		},
 		{
 			"image": "hyder.jpg",
-			"caption": "Hyder: This is a poster I made after a trip to Lisbon. I see travelling as something powerful because it allows you to discover new places and new things about yourself."	
+			"caption": "Hyder: This is a poster I made after a trip to Lisbon. I see travelling as something powerful because it allows you to discover new places and new things about yourself."
 		},
 		{
 			"image": "leila.jpg",
-			"caption": "Leila: The power of love and how strong the emotion is especially when it comes to my partner and family."	
+			"caption": "Leila: The power of love and how strong the emotion is especially when it comes to my partner and family."
 		},
 		{
 			"image": "placeholder.jpg",
-			"caption": ""	
+			"caption": ""
 		},
 		{
 			"image": "mia.jpg",
-			"caption": "Mia: Love - the most powerful thing we know. A cliche but true!"	
+			"caption": "Mia: Love - the most powerful thing we know. A cliche but true!"
 		},
 		{
 			"image": "navid.jpg",
-			"caption": "Navid: self-reflection - seing and excepting yourself for you are."	
+			"caption": "Navid: self-reflection - seing and excepting yourself for you are."
 		},
 		{
 			"image": "placeholder.jpg",
-			"caption": ""	
+			"caption": ""
 		},
 		{
 			"image": "samee.jpg",
-			"caption": "Samee: Having been given enough time, the single simplest element/thing ever began questioning itself to the point it became responsible for both its own destruction and advancement. While confusing, this is also the most powerful thing i can possibly think of."	
+			"caption": "Samee: Having been given enough time, the single simplest element/thing ever began questioning itself to the point it became responsible for both its own destruction and advancement. While confusing, this is also the most powerful thing i can possibly think of."
 		},
 		{
 			"image": "placeholder.jpg",
-			"caption": ""	
+			"caption": ""
 		},
 		{
 			"image": "sarge.jpg",
-			"caption": "Sarge: Force of Nature remains the most powerful,like the Tsunami of year 2004, on Dec 26. It still has affect on me"	
+			"caption": "Sarge: Force of Nature remains the most powerful,like the Tsunami of year 2004, on Dec 26. It still has affect on me"
 		},
 		{
 			"image": "shaz.jpg",
-			"caption": "Shaz: Faith!"	
+			"caption": "Shaz: Faith!"
 		},
 		{
 			"image": "sophia.jpg",
-			"caption": "Sophia: This poster was at a venue I went to. The message itself is powerful but satire especially is as a method of communication"	
+			"caption": "Sophia: This poster was at a venue I went to. The message itself is powerful but satire especially is as a method of communication"
 		},
 		{
 			"image": "sye.jpg",
-			"caption": "Sye: memories"	
+			"caption": "Sye: memories"
 		},
 		{
 			"image": "placeholder.jpg",
-			"caption": ""	
+			"caption": ""
 		},
 		{
 			"image": "charlie-finn.jpg",
-			"caption": "Charlie & Finn: Neptune"	
+			"caption": "Charlie & Finn: Neptune"
+		},
+		{
+			"image": "akbar.jpg",
+			"caption": "Akbar: Life."
 		}
 	],
 	"scary": [
 		{
 			"image": "abid.jpg",
-			"caption": "Abid / Farouk: I asked this as something he doesn't like and although he could not give an answer, eventually said horses!"	
+			"caption": "Abid / Farouk: I asked this as something he doesn't like and although he could not give an answer, eventually said horses!"
 		},
 		{
 			"image": "adam.jpg",
-			"caption": "Adam: The way we are controlled by political elites who use fear as a tactic to divide, rule and implement their own sick and selfish agendas."	
+			"caption": "Adam: The way we are controlled by political elites who use fear as a tactic to divide, rule and implement their own sick and selfish agendas."
 		},
 		{
 			"image": "alei.jpg",
-			"caption": "Alei: I took this photo when I went on a roadtrip to the most haunted places in New Jersey. The Devil's Tree was definitely the most unsettling place we visited."	
+			"caption": "Alei: I took this photo when I went on a roadtrip to the most haunted places in New Jersey. The Devil's Tree was definitely the most unsettling place we visited."
 		},
 		{
 			"image": "asad.jpg",
-			"caption": "Asad: there are unfortunately many scary things and we live in worrying times.... society has recently been moved to a new level of blindness. The \"ironic\" thing is that the fake have now almost given up trying to put up any pretence of honesty, may they have come to the conclusion that the sheep are now so dense there is no need to pretend?  The scary thing is that they now send out their weapons and cause destruction, famine and of course a lot worse almost as though they are playing a game on a PS2."	
+			"caption": "Asad: there are unfortunately many scary things and we live in worrying times.... society has recently been moved to a new level of blindness. The \"ironic\" thing is that the fake have now almost given up trying to put up any pretence of honesty, may they have come to the conclusion that the sheep are now so dense there is no need to pretend?  The scary thing is that they now send out their weapons and cause destruction, famine and of course a lot worse almost as though they are playing a game on a PS2."
 		},
 		{
 			"image": "farouk.jpg",
-			"caption": "Farouk: The thought of not knowing or recognising my own family, who I am, where I am, because of dementia is really scary and profound and something I do not want to contemplate."	
+			"caption": "Farouk: The thought of not knowing or recognising my own family, who I am, where I am, because of dementia is really scary and profound and something I do not want to contemplate."
 		},
 		{
 			"image": "hyder.jpg",
-			"caption": "Hyder: How quick time flies, that jump from 19 to 32 seems to have happened overnight."	
+			"caption": "Hyder: How quick time flies, that jump from 19 to 32 seems to have happened overnight."
 		},
 		{
 			"image": "leila.jpg",
-			"caption": "Leila: The reality of getting married in just over a years time! Not to say in a negative way, but it’s a big step in my life...!"	
+			"caption": "Leila: The reality of getting married in just over a years time! Not to say in a negative way, but it’s a big step in my life...!"
 		},
 		{
 			"image": "max.jpg",
-			"caption": "Max: Not so much the thought of dying because that will happen anyway, but more for the ones you leave behind."	
+			"caption": "Max: Not so much the thought of dying because that will happen anyway, but more for the ones you leave behind."
 		},
 		{
 			"image": "mia.jpg",
-			"caption": "Mia: The unknown. \"The only thing to fear is fear itself\""	
+			"caption": "Mia: The unknown. \"The only thing to fear is fear itself\""
 		},
 		{
 			"image": "navid.jpg",
-			"caption": "Navid: moving towards the future without knowing what the outcome may be"	
+			"caption": "Navid: moving towards the future without knowing what the outcome may be"
 		},
 		{
-			"image": "nusrat.jpg",
-			"caption": "Nusrat: Its very scary how time flies."	
+			"image": "nosrat.jpg",
+			"caption": "nosrat: Its very scary how time flies."
 		},
 		{
 			"image": "samee.jpg",
-			"caption": "Samee: the consequence of my hip condition represents the chance i may never fulfill the massive potential i know i have - i Used to have infallible confidence and self belief but since i cannot physically function Like i used to, i feel like less of a valid human which has terrifyin consequences on my mental health"	
+			"caption": "Samee: the consequence of my hip condition represents the chance i may never fulfill the massive potential i know i have - i Used to have infallible confidence and self belief but since i cannot physically function Like i used to, i feel like less of a valid human which has terrifyin consequences on my mental health"
 		},
 		{
 			"image": "sarah.jpg",
-			"caption": "Sarah / Nosrat: Once a year in month of Sept. Fairground rides come to Lux. & Sarah loves to go on different rides. She finds it v scary. Wouldn’t sit on them. She sits on the merry-go-round or the big wheel (with us) But in general she enjoys it."	
+			"caption": "Sarah / Nosrat: Once a year in month of Sept. Fairground rides come to Lux. & Sarah loves to go on different rides. She finds it v scary. Wouldn’t sit on them. She sits on the merry-go-round or the big wheel (with us) But in general she enjoys it."
 		},
 		{
 			"image": "sarge.jpg",
-			"caption": "Sarge: Thought of being buried alive is the most scary aspect to me. Worse still not being able to dig your way out and dying in extreme despair"	
+			"caption": "Sarge: Thought of being buried alive is the most scary aspect to me. Worse still not being able to dig your way out and dying in extreme despair"
 		},
 		{
 			"image": "shaz.jpg",
-			"caption": "Shaz: Bridges and heights! Although this particular bridge was not too high, scary nonetheless."	
+			"caption": "Shaz: Bridges and heights! Although this particular bridge was not too high, scary nonetheless."
 		},
 		{
 			"image": "sophia.jpg",
-			"caption": "Sophia: I took this photo when I was walking home late one night. It is a five minute walk from the tube along a well-lit main road but sometimes it is still an uncomfortable experience. The prospect of having to walk alone in the dark is scary especially when there is no other option."	
+			"caption": "Sophia: I took this photo when I was walking home late one night. It is a five minute walk from the tube along a well-lit main road but sometimes it is still an uncomfortable experience. The prospect of having to walk alone in the dark is scary especially when there is no other option."
 		},
 		{
 			"image": "sye.jpg",
-			"caption": "Sye: can’t believe I have seven grandchildren!"	
+			"caption": "Sye: can’t believe I have seven grandchildren!"
 		},
 		{
 			"image": "zaki.jpg",
-			"caption": "Zaki: being held by a strange man in a strange suit."	
+			"caption": "Zaki: being held by a strange man in a strange suit."
 		},
 		{
 			"image": "charlie-finn.jpg",
-			"caption": "Charlie & Finn: Drillfinger on Henry Danger"	
+			"caption": "Charlie & Finn: Drillfinger on Henry Danger"
+		},
+		{
+			"image": "akbar.jpg",
+			"caption": "Akbar: Nightmares."
 		}
 	],
 	"sentimental": [
 		{
 			"image": "abid.jpg",
-			"caption": "Abid / Farouk: This question I put to Abid as something he loves and then something that makes him feel sad. His response to something he loves was Ruth, Farouk, staff at Beech. His reply to something sad was when Ami and Baba died."	
+			"caption": "Abid / Farouk: This question I put to Abid as something he loves and then something that makes him feel sad. His response to something he loves was Ruth, Farouk, staff at Beech. His reply to something sad was when Ami and Baba died."
 		},
 		{
 			"image": "adam.jpg",
-			"caption": "Adam: Photographs from the moment they are taken recede further into the past. As we move forward with our lives, the best photographs age like a vintage wine… only far less pretentious and more humbling than that analogy :-)"	
+			"caption": "Adam: Photographs from the moment they are taken recede further into the past. As we move forward with our lives, the best photographs age like a vintage wine… only far less pretentious and more humbling than that analogy :-)"
 		},
 		{
 			"image": "alei.jpg",
-			"caption": "Alei: This photo was from my roof at sunrise after prom night when me and my friends got back to my house. Words and photos can't describe how beautiful that sunrise was and how eerily silent the city was at that time."	
+			"caption": "Alei: This photo was from my roof at sunrise after prom night when me and my friends got back to my house. Words and photos can't describe how beautiful that sunrise was and how eerily silent the city was at that time."
 		},
 		{
 			"image": "asad.jpg",
-			"caption": "Asad: 1995, Ammi & Baba at our home in Sudbrooke Road, their presence was something I always felt there, which is something I have never felt here and miss deeply.... Love the fact that there is a young Adam which Samee is holding onto...."	
+			"caption": "Asad: 1995, Ammi & Baba at our home in Sudbrooke Road, their presence was something I always felt there, which is something I have never felt here and miss deeply.... Love the fact that there is a young Adam which Samee is holding onto...."
 		},
 		{
 			"image": "farouk.jpg",
-			"caption": "Farouk: This is the only item I took when we were clearing out Ami and Baba's house after they had died. This statue of the Taj Mahal which is now proudly displayed in my own home, is of great sentimental value to me, as I clearly recall this being displayed in Ami's glass cabinet in her front room from my very earliest childhood. And also because I think on some unconscious level it represents my roots."	
+			"caption": "Farouk: This is the only item I took when we were clearing out Ami and Baba's house after they had died. This statue of the Taj Mahal which is now proudly displayed in my own home, is of great sentimental value to me, as I clearly recall this being displayed in Ami's glass cabinet in her front room from my very earliest childhood. And also because I think on some unconscious level it represents my roots."
 		},
 		{
 			"image": "hyder.jpg",
-			"caption": "Hyder: Seeing my old room empty after we moved everything out."	
+			"caption": "Hyder: Seeing my old room empty after we moved everything out."
 		},
 		{
 			"image": "leila.jpg",
-			"caption": "Leila: Someone who was/is very close to my heart. I have this image saved on my phone which I will look at regularly. It was a special day celebrating Emma’s engagement and we both clearly love the cake! I know and bless him his skin isn’t looking great."	
+			"caption": "Leila: Someone who was/is very close to my heart. I have this image saved on my phone which I will look at regularly. It was a special day celebrating Emma’s engagement and we both clearly love the cake! I know and bless him his skin isn’t looking great."
 		},
 		{
 			"image": "max.jpg",
-			"caption": "Max: Whether its something material or more personal, knowing when its time to let go. Our home sold this week after living in it for 30 years"	
+			"caption": "Max: Whether its something material or more personal, knowing when its time to let go. Our home sold this week after living in it for 30 years"
 		},
 		{
 			"image": "mia.jpg",
-			"caption": "Mia: This cot is sentimental to me. All 3 of our children have slept in it. It holds memories of long nights and happy mornings. If you look closely you can see the collective teeth marks along the bar that they have left over the years."	
+			"caption": "Mia: This cot is sentimental to me. All 3 of our children have slept in it. It holds memories of long nights and happy mornings. If you look closely you can see the collective teeth marks along the bar that they have left over the years."
 		},
 		{
 			"image": "navid.jpg",
-			"caption": "Navid: ring I bought on my last summer holiday with my exgirlfriend and her familly"	
+			"caption": "Navid: ring I bought on my last summer holiday with my exgirlfriend and her familly"
 		},
 		{
 			"image": "placeholder.jpg",
-			"caption": ""	
+			"caption": ""
 		},
 		{
 			"image": "samee.jpg",
-			"caption": "Samee: a prayer stone that my grandfather gave to me but I don’t know where it is, so here’s a picture of an onion."	
+			"caption": "Samee: a prayer stone that my grandfather gave to me but I don’t know where it is, so here’s a picture of an onion."
 		},
 		{
 			"image": "placeholder.jpg",
-			"caption": ""	
+			"caption": ""
 		},
 		{
 			"image": "sarge.jpg",
-			"caption": "Sarge: Memories of my parents and items, like photos of them, are truly sentimental. Their love, kindness and care shall remain with me forever"	
+			"caption": "Sarge: Memories of my parents and items, like photos of them, are truly sentimental. Their love, kindness and care shall remain with me forever"
 		},
 		{
 			"image": "shaz.jpg",
-			"caption": "Shaz: Alei & Laila! Babies to grown-ups (well almost)...same restaurant 12 years later!"	
+			"caption": "Shaz: Alei & Laila! Babies to grown-ups (well almost)...same restaurant 12 years later!"
 		},
 		{
 			"image": "sophia.jpg",
-			"caption": "Sophia: I have a load of photos on my bedroom wall. A lot of them are from trips away that I went on with Natty over the last couple of years. Even though we are no longer together I like the memories of the places and the time we spent there."	
+			"caption": "Sophia: I have a load of photos on my bedroom wall. A lot of them are from trips away that I went on with Natty over the last couple of years. Even though we are no longer together I like the memories of the places and the time we spent there."
 		},
 		{
 			"image": "sye.jpg",
-			"caption": "Sye: the last Question Air party"	
+			"caption": "Sye: the last Question Air party"
 		},
 		{
 			"image": "zaki.jpg",
-			"caption": "Zaki: an incredibly special day, surrounded by friends and family smiling at you all day."	
+			"caption": "Zaki: an incredibly special day, surrounded by friends and family smiling at you all day."
 		},
 		{
 			"image": "charlie-finn.jpg",
-			"caption": "Charlie & Finn: Toys from birth"	
+			"caption": "Charlie & Finn: Toys from birth"
+		},
+		{
+			"image": "akbar.jpg",
+			"caption": "Akbar: My little baby."
 		}
 	],
 	"unique": [
 		{
 			"image": "abid.jpg",
-			"caption": "Abid / Farouk: I asked Abid what was different about him from other persons and his immediate spontaneous response was - I'm good looking (can't argue with that)."	
+			"caption": "Abid / Farouk: I asked Abid what was different about him from other persons and his immediate spontaneous response was - I'm good looking (can't argue with that)."
 		},
 		{
 			"image": "adam.jpg",
-			"caption": "Adam: I have a natural lure of wanting to know everyone, which is both a blessing and curse. On one hand, I meet and learn from so many different types of people. On the other, I trust people far too easily, which lands me in trouble sometimes. Contradicting this characteristic, I also need a lot of time to myself."	
+			"caption": "Adam: I have a natural lure of wanting to know everyone, which is both a blessing and curse. On one hand, I meet and learn from so many different types of people. On the other, I trust people far too easily, which lands me in trouble sometimes. Contradicting this characteristic, I also need a lot of time to myself."
 		},
 		{
 			"image": "alei.jpg",
-			"caption": "Alei: I love taking photos and oftentimes look stupid while taking them."	
+			"caption": "Alei: I love taking photos and oftentimes look stupid while taking them."
 		},
 		{
 			"image": "asad.jpg",
-			"caption": "Asad: It's something that I feel has defined my physical appearance and during my teenage and young adult years it was something that I felt others either liked or hated and consequently relationships either developed or didn't. I think it is because of this (I think) I have not and do not base relationships on physicality."	
+			"caption": "Asad: It's something that I feel has defined my physical appearance and during my teenage and young adult years it was something that I felt others either liked or hated and consequently relationships either developed or didn't. I think it is because of this (I think) I have not and do not base relationships on physicality."
 		},
 		{
 			"image": "farouk.jpg",
-			"caption": "Farouk: Obviously our finger prints and DNA are unique to each of us. However, something else unique about me though, is that I am the only person fortunate to have married a Jewish girl called Ruth Glynn at Marylebone Registry Office on a bright and crisp day in London on the 27th October 1982, and then gone on to produce 3 decent human beings who carry my genes called Adam, Zaki and Leila. This despite a major obstacle - my parents. Who were against my marriage to Ruth on religious and cultural grounds, and which almost broke us up for good. However, years on, I understand and now respect what it meant to them, and just how difficult it must also have been for them at the time to see their son marry outside of their blind faith and strong genuine beliefs. Both my parents were staunch practising Muslims, but religion I believe has to come from the heart, and so I have no regrets and would do the same again, despite all the heartache and anguish caused on both sides. If the world is to be a better place then religious tolerance has a major role to play, and in my own unique way I played my part, and proved that just because one is of a different faith does not mean that we are not human."	
+			"caption": "Farouk: Obviously our finger prints and DNA are unique to each of us. However, something else unique about me though, is that I am the only person fortunate to have married a Jewish girl called Ruth Glynn at Marylebone Registry Office on a bright and crisp day in London on the 27th October 1982, and then gone on to produce 3 decent human beings who carry my genes called Adam, Zaki and Leila. This despite a major obstacle - my parents. Who were against my marriage to Ruth on religious and cultural grounds, and which almost broke us up for good. However, years on, I understand and now respect what it meant to them, and just how difficult it must also have been for them at the time to see their son marry outside of their blind faith and strong genuine beliefs. Both my parents were staunch practising Muslims, but religion I believe has to come from the heart, and so I have no regrets and would do the same again, despite all the heartache and anguish caused on both sides. If the world is to be a better place then religious tolerance has a major role to play, and in my own unique way I played my part, and proved that just because one is of a different faith does not mean that we are not human."
 		},
 		{
 			"image": "hyder.jpg",
-			"caption": "Hyder: Everything and nothing."	
+			"caption": "Hyder: Everything and nothing."
 		},
 		{
 			"image": "leila.jpg",
-			"caption": "Leila: I cracked my forehead open when I was just two years old after jumping on a bunk bed which resulted into falling off and banging my head on some wood! Even though I cannot remember the memory, I believe it wasn’t to much of a fun experience for my parents who both had to hold me down whilst getting stitched up! I hardly ever recognise it myself but this scar on my forehead is a little piece of me."	
+			"caption": "Leila: I cracked my forehead open when I was just two years old after jumping on a bunk bed which resulted into falling off and banging my head on some wood! Even though I cannot remember the memory, I believe it wasn’t to much of a fun experience for my parents who both had to hold me down whilst getting stitched up! I hardly ever recognise it myself but this scar on my forehead is a little piece of me."
 		},
 		{
 			"image": "placeholder.jpg",
-			"caption": ""	
+			"caption": ""
 		},
 		{
 			"image": "mia.jpg",
-			"caption": "Mia: I think that what makes us all unique is our experiences; things and people and places that have shaped us. These shelves, the frames, boxes and albums hold memories of the people and experiences that have made me who I am."	
+			"caption": "Mia: I think that what makes us all unique is our experiences; things and people and places that have shaped us. These shelves, the frames, boxes and albums hold memories of the people and experiences that have made me who I am."
 		},
 		{
 			"image": "navid.jpg",
-			"caption": "Navid: never giving up and never stop until I unlock whatever it is I want to achieve"	
+			"caption": "Navid: never giving up and never stop until I unlock whatever it is I want to achieve"
 		},
 		{
 			"image": "placeholder.jpg",
-			"caption": ""	
+			"caption": ""
 		},
 		{
 			"image": "samee.jpg",
-			"caption": "Samee: I have an uncanny ability to empower others and teach them somehing new in a way which they can personally relate to."	
+			"caption": "Samee: I have an uncanny ability to empower others and teach them somehing new in a way which they can personally relate to."
 		},
 		{
 			"image": "placeholder.jpg",
-			"caption": ""	
+			"caption": ""
 		},
 		{
 			"image": "sarge.jpg",
-			"caption": "Sarge: Very difficult but also quite interesting. My uniqueness lies in my ability to get along with people from all walks of life regardless of race, religion, ethnicity or linguistic differences."	
+			"caption": "Sarge: Very difficult but also quite interesting. My uniqueness lies in my ability to get along with people from all walks of life regardless of race, religion, ethnicity or linguistic differences."
 		},
 		{
 			"image": "shaz.jpg",
-			"caption": "Shaz: I love Harry Potter! I have read the HP series about 7x and counting!"	
+			"caption": "Shaz: I love Harry Potter! I have read the HP series about 7x and counting!"
 		},
 		{
 			"image": "sophia.jpg",
-			"caption": "Sophia: I like vintage styles (which probably explains my interest in History) and a love of clothes is something I share with my mum. I bought this jacket at a second-hand kilo sale and wanted to show her for approval."	
+			"caption": "Sophia: I like vintage styles (which probably explains my interest in History) and a love of clothes is something I share with my mum. I bought this jacket at a second-hand kilo sale and wanted to show her for approval."
 		},
 		{
 			"image": "sye.jpg",
-			"caption": "Sye: childhood in london"	
+			"caption": "Sye: childhood in london"
 		},
 		{
 			"image": "placeholder.jpg",
-			"caption": ""	
+			"caption": ""
 		},
 		{
 			"image": "charlie-finn.jpg",
-			"caption": "Charlie & Finn: Our eyes"	
+			"caption": "Charlie & Finn: Our eyes"
+		},
+		{
+			"image": "akbar.jpg",
+			"caption": "Akbar: I look forward to walking over the Queensboro Bridge during blizzards."
 		}
 	]
 }
