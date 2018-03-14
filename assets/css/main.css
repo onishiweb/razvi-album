@@ -78,6 +78,11 @@ p {
 	line-height: 1.5;
 }
 
+.site-navigation li a.active {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
 .site-navigation .subnav {
 	margin: 20px 0;
 	padding-left: 15px;

@@ -88,6 +88,9 @@ function updateImages(imageData, category) {
 function loadImagesFromFilter(e) {
     e.preventDefault();
 
+    $('[data-filter]').removeClass('active');
+    $(this).addClass('active');
+
 	var category = $(this).data('filter');
 	var $images = $('.image-thumbnail');
 
