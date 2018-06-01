@@ -34,7 +34,7 @@
 		},
 		{
 			"image": "mia.jpg",
-			"caption": "<h2 class=\"caption__title\">Mia</h2>"
+			"caption": "<h2 class=\"caption__title\">Mia and Lila</h2>"
 		},
 		{
 			"image": "navid.jpg",
@@ -77,8 +77,40 @@
 			"caption": "<h2 class=\"caption__title\">Akbar</h2>"
 		},
 		{
+			"image": "anila.jpg",
+			"caption": "<h2 class=\"caption__title\">Anila</h2>"
+		},
+		{
+			"image": "ferwah.jpg",
+			"caption": "<h2 class=\"caption__title\">Ferwah</h2>"
+		},
+		{
+			"image": "furkhunda.jpg",
+			"caption": "<h2 class=\"caption__title\">Furkhunda</h2>"
+		},
+		{
+			"image": "nusrath.jpg",
+			"caption": "<h2 class=\"caption__title\">Nusrath</h2>"
+		},
+		{
 			"image": "placeholder.jpg",
 			"caption": "<h2 class=\"caption__title\"></h2>"
+		},
+		{
+			"image": "anila.jpg",
+			"caption": "<h2 class=\"caption__title\">Anila</h2>"
+		},
+		{
+			"image": "ferwah.jpg",
+			"caption": "<h2 class=\"caption__title\">Ferwah</h2>"
+		},
+		{
+			"image": "furkhunda.jpg",
+			"caption": "<h2 class=\"caption__title\">Furkhunda</h2>"
+		},
+		{
+			"image": "nusrath.jpg",
+			"caption": "<h2 class=\"caption__title\">Nusrath</h2>"
 		}
 	],
 	"real": [
@@ -151,7 +183,7 @@
 			"caption": "Sye: family"
 		},
 		{
-			"image": "zaki.jpg",
+			"image": "placholder.jpg",
 			"caption": "Zaki: spending 30+ hours in a hospital room - seeing your wife in immense pain but being incredibly proud of how strong she is being. and then holding your baby for the first time at the end of it. felt pretty real...."
 		},
 		{
@@ -161,6 +193,22 @@
 		{
 			"image": "akbar.jpg",
 			"caption": "Akbar: My love for her."
+		},
+		{
+			"image": "anila.jpg",
+			"caption": "<h2 class=\"caption__title\">Anila</h2>"
+		},
+		{
+			"image": "ferwah.jpg",
+			"caption": "<h2 class=\"caption__title\">Ferwah</h2>"
+		},
+		{
+			"image": "furkhunda.jpg",
+			"caption": "<h2 class=\"caption__title\">Furkhunda</h2>"
+		},
+		{
+			"image": "nusrath.jpg",
+			"caption": "<h2 class=\"caption__title\">Nusrath</h2>"
 		}
 	],
 	"challenge": [
@@ -243,6 +291,22 @@
 		{
 			"image": "akbar.jpg",
 			"caption": "Akbar: Not being able to see your face, to hear your voice."
+		},
+		{
+			"image": "anila.jpg",
+			"caption": "<h2 class=\"caption__title\">Anila</h2>"
+		},
+		{
+			"image": "ferwah.jpg",
+			"caption": "<h2 class=\"caption__title\">Ferwah</h2>"
+		},
+		{
+			"image": "furkhunda.jpg",
+			"caption": "<h2 class=\"caption__title\">Furkhunda</h2>"
+		},
+		{
+			"image": "nusrath.jpg",
+			"caption": "<h2 class=\"caption__title\">Nusrath</h2>"
 		}
 	],
 	"comfort": [
@@ -312,7 +376,7 @@
 		},
 		{
 			"image": "sye.jpg",
-			"caption": "Sye: glass of bubbly"
+			"caption": "Sye: We have going to St Lucia for twenty five years. It is very comforting to know we have something to look forward to in the winter months."
 		},
 		{
 			"image": "zaki.jpg",
@@ -325,6 +389,22 @@
 		{
 			"image": "akbar.jpg",
 			"caption": "Akbar: Family."
+		},
+		{
+			"image": "anila.jpg",
+			"caption": "<h2 class=\"caption__title\">Anila</h2>"
+		},
+		{
+			"image": "ferwah.jpg",
+			"caption": "<h2 class=\"caption__title\">Ferwah</h2>"
+		},
+		{
+			"image": "furkhunda.jpg",
+			"caption": "<h2 class=\"caption__title\">Furkhunda</h2>"
+		},
+		{
+			"image": "nusrath.jpg",
+			"caption": "<h2 class=\"caption__title\">Nusrath</h2>"
 		}
 	],
 	"fake": [
@@ -407,6 +487,22 @@
 		{
 			"image": "akbar.jpg",
 			"caption": "Akbar: He’s not actually pondering deep in thought."
+		},
+		{
+			"image": "anila.jpg",
+			"caption": "<h2 class=\"caption__title\">Anila</h2>"
+		},
+		{
+			"image": "placeholder.jpg",
+			"caption": ""
+		},
+		{
+			"image": "furkhunda.jpg",
+			"caption": "<h2 class=\"caption__title\">Furkhunda</h2>"
+		},
+		{
+			"image": "nusrath.jpg",
+			"caption": "<h2 class=\"caption__title\">Nusrath</h2>"
 		}
 	],
 	"funny": [
@@ -476,7 +572,7 @@
 		},
 		{
 			"image": "sye.jpg",
-			"caption": "Sye: and scary too!"
+			"caption": "Sye: Mia’s kids about to conquer the world."
 		},
 		{
 			"image": "zaki.jpg",
@@ -489,6 +585,22 @@
 		{
 			"image": "akbar.jpg",
 			"caption": "Akbar: Alain says he hates this dog, but the picture would suggest otherwise."
+		},
+		{
+			"image": "anila.jpg",
+			"caption": "<h2 class=\"caption__title\">Anila</h2>"
+		},
+		{
+			"image": "ferwah.jpg",
+			"caption": "<h2 class=\"caption__title\">Ferwah</h2>"
+		},
+		{
+			"image": "furkhunda.jpg",
+			"caption": "<h2 class=\"caption__title\">Furkhunda</h2>"
+		},
+		{
+			"image": "nusrath.jpg",
+			"caption": "<h2 class=\"caption__title\">Nusrath</h2>"
 		}
 	],
 	"like": [
@@ -571,6 +683,22 @@
 		{
 			"image": "akbar.jpg",
 			"caption": "Akbar: I like/love playing basketball and this is my favorite basketball player. Part of the reason he is my favorite Basketball player is because of the quote below."
+		},
+		{
+			"image": "anila.jpg",
+			"caption": "<h2 class=\"caption__title\">Anila</h2>"
+		},
+		{
+			"image": "ferwah.jpg",
+			"caption": "<h2 class=\"caption__title\">Ferwah</h2>"
+		},
+		{
+			"image": "furkhunda.jpg",
+			"caption": "<h2 class=\"caption__title\">Furkhunda</h2>"
+		},
+		{
+			"image": "nusrath.jpg",
+			"caption": "<h2 class=\"caption__title\">Nusrath</h2>"
 		}
 	],
 	"power": [
@@ -640,7 +768,7 @@
 		},
 		{
 			"image": "sye.jpg",
-			"caption": "Sye: memories"
+			"caption": "Sye: This picture brings a lot of memories of Sally and how close she was to Chloe and the strong and powerful bond sally formed with her."
 		},
 		{
 			"image": "placeholder.jpg",
@@ -653,6 +781,22 @@
 		{
 			"image": "akbar.jpg",
 			"caption": "Akbar: Life."
+		},
+		{
+			"image": "anila.jpg",
+			"caption": "<h2 class=\"caption__title\">Anila</h2>"
+		},
+		{
+			"image": "ferwah.png",
+			"caption": "<h2 class=\"caption__title\">Ferwah</h2>"
+		},
+		{
+			"image": "furkhunda.jpg",
+			"caption": "<h2 class=\"caption__title\">Furkhunda</h2>"
+		},
+		{
+			"image": "nusrath.jpg",
+			"caption": "<h2 class=\"caption__title\">Nusrath</h2>"
 		}
 	],
 	"scary": [
@@ -722,7 +866,7 @@
 		},
 		{
 			"image": "sye.jpg",
-			"caption": "Sye: can’t believe I have seven grandchildren!"
+			"caption": "Sye: Here they are all together Judy and my seven grand-children. Seriously frightening – how did that happen?!"
 		},
 		{
 			"image": "zaki.jpg",
@@ -735,6 +879,22 @@
 		{
 			"image": "akbar.jpg",
 			"caption": "Akbar: Nightmares."
+		},
+		{
+			"image": "anila.jpg",
+			"caption": "<h2 class=\"caption__title\">Anila</h2>"
+		},
+		{
+			"image": "ferwah.jpg",
+			"caption": "<h2 class=\"caption__title\">Ferwah</h2>"
+		},
+		{
+			"image": "furkhunda.jpg",
+			"caption": "<h2 class=\"caption__title\">Furkhunda</h2>"
+		},
+		{
+			"image": "nusrath.jpg",
+			"caption": "<h2 class=\"caption__title\">Nusrath</h2>"
 		}
 	],
 	"sentimental": [
@@ -804,7 +964,7 @@
 		},
 		{
 			"image": "sye.jpg",
-			"caption": "Sye: the last Question Air party"
+			"caption": "Sye: After 26 years in business Judy and I sold the business – it was very emotional night with everyone making wonderful speeches – very sentimental night."
 		},
 		{
 			"image": "zaki.jpg",
@@ -817,6 +977,22 @@
 		{
 			"image": "akbar.jpg",
 			"caption": "Akbar: My little baby."
+		},
+		{
+			"image": "anila.jpg",
+			"caption": "<h2 class=\"caption__title\">Anila</h2>"
+		},
+		{
+			"image": "ferwah.jpg",
+			"caption": "<h2 class=\"caption__title\">Ferwah</h2>"
+		},
+		{
+			"image": "furkhunda.jpg",
+			"caption": "<h2 class=\"caption__title\">Furkhunda</h2>"
+		},
+		{
+			"image": "nusrath.jpg",
+			"caption": "<h2 class=\"caption__title\">Nusrath</h2>"
 		}
 	],
 	"unique": [
@@ -886,7 +1062,7 @@
 		},
 		{
 			"image": "sye.jpg",
-			"caption": "Sye: childhood in london"
+			"caption": "Sye: As you can see there are only two brown faces in the whole class. I always remember being told how wonderful my teeth were by colleagues mothers and this being followed up – it must be because you are brown."
 		},
 		{
 			"image": "placeholder.jpg",
@@ -899,6 +1075,22 @@
 		{
 			"image": "akbar.jpg",
 			"caption": "Akbar: I look forward to walking over the Queensboro Bridge during blizzards."
+		},
+		{
+			"image": "anila.jpg",
+			"caption": "<h2 class=\"caption__title\">Anila</h2>"
+		},
+		{
+			"image": "placeholder.jpg",
+			"caption": ""
+		},
+		{
+			"image": "furkhunda.jpg",
+			"caption": "<h2 class=\"caption__title\">Furkhunda</h2>"
+		},
+		{
+			"image": "nusrath.jpg",
+			"caption": "<h2 class=\"caption__title\">Nusrath</h2>"
 		}
 	]
 }

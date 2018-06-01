@@ -107,7 +107,7 @@ $(document).ready(function() {
 	initFancybox();
 
     // Load images list JSON file
-    $.getJSON( "imageList.json?asfas", function( data ) {
+    $.getJSON( "imageList.json", function( data ) {
         // retreive and randomise array:
         var imageData = Shuffle(data['home']);
 
