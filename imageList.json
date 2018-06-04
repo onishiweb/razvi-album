@@ -95,6 +95,10 @@
 		{
 			"image": "placeholder.jpg",
 			"caption": "<h2 class=\"caption__title\"></h2>"
+		},
+		{
+			"image": "placeholder.jpg",
+			"caption": "<h2 class=\"caption__title\"></h2>"
 		}
 	],
 	"real": [
@@ -193,6 +197,10 @@
 		{
 			"image": "nusrath.jpg",
 			"caption": "Nusrath: Bringing up my two sons"
+		},
+		{
+			"image": "placeholder.jpg",
+			"caption": "<h2 class=\"caption__title\"></h2>"
 		}
 	],
 	"challenge": [
@@ -291,6 +299,10 @@
 		{
 			"image": "nusrath.jpg",
 			"caption": "Nusrath: Holding on to my youth"
+		},
+		{
+			"image": "placeholder.jpg",
+			"caption": "<h2 class=\"caption__title\"></h2>"
 		}
 	],
 	"comfort": [
@@ -389,6 +401,10 @@
 		{
 			"image": "nusrath.jpg",
 			"caption": "Nusrath: Having my family around me"
+		},
+		{
+			"image": "placeholder.jpg",
+			"caption": "<h2 class=\"caption__title\"></h2>"
 		}
 	],
 	"fake": [
@@ -487,6 +503,10 @@
 		{
 			"image": "nusrath.jpg",
 			"caption": "Nusrath: Owning one of these"
+		},
+		{
+			"image": "placeholder.jpg",
+			"caption": "<h2 class=\"caption__title\"></h2>"
 		}
 	],
 	"funny": [
@@ -585,6 +605,10 @@
 		{
 			"image": "nusrath.jpg",
 			"caption": "Nusrath: Paul Choudhary"
+		},
+		{
+			"image": "placeholder.jpg",
+			"caption": "<h2 class=\"caption__title\"></h2>"
 		}
 	],
 	"like": [
@@ -683,6 +707,10 @@
 		{
 			"image": "nusrath.jpg",
 			"caption": "Nusrath: Travelling – Matterhorn is the backdrop"
+		},
+		{
+			"image": "placeholder.jpg",
+			"caption": "<h2 class=\"caption__title\"></h2>"
 		}
 	],
 	"power": [
@@ -781,6 +809,10 @@
 		{
 			"image": "nusrath.jpg",
 			"caption": "Nusrath: Prayer"
+		},
+		{
+			"image": "placeholder.jpg",
+			"caption": "<h2 class=\"caption__title\"></h2>"
 		}
 	],
 	"scary": [
@@ -879,6 +911,10 @@
 		{
 			"image": "nusrath.jpg",
 			"caption": "Nusrath: Having to cope on my own"
+		},
+		{
+			"image": "placeholder.jpg",
+			"caption": "<h2 class=\"caption__title\"></h2>"
 		}
 	],
 	"sentimental": [
@@ -977,6 +1013,10 @@
 		{
 			"image": "nusrath.jpg",
 			"caption": "Nusrath: Memories of days gone by - and remembering those who left us."
+		},
+		{
+			"image": "placeholder.jpg",
+			"caption": "<h2 class=\"caption__title\"></h2>"
 		}
 	],
 	"unique": [
@@ -1075,6 +1115,10 @@
 		{
 			"image": "nusrath.jpg",
 			"caption": "Nusrath: I will always be there for my closest and dearest."
+		},
+		{
+			"image": "placeholder.jpg",
+			"caption": "<h2 class=\"caption__title\"></h2>"
 		}
 	]
 }
