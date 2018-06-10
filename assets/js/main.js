@@ -38,10 +38,10 @@ function initFancybox() {
 
 	$("[data-fancybox]").fancybox(fancybox_options);
 
-    $.fancybox.open({
-        src  : '#welcome-content',
-        type : 'inline'
-    });
+    // $.fancybox.open({
+    //     src  : '#welcome-content',
+    //     type : 'inline'
+    // });
 }
 
 function Shuffle(o) {
@@ -101,9 +101,17 @@ function loadImagesFromFilter(e) {
 
 		updateImages(imageData, category);
 	});
+
+	$('.site-navigation__container').toggleClass('active');
 }
 
 $(document).ready(function() {
+	$('html').removeClass('no-js');
+
+	$('.site-navigation').on('click', '#menu', function() {
+		$('.site-navigation__container').toggleClass('active');
+	});
+
 	initFancybox();
 
     // Load images list JSON file

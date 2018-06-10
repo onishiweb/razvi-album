@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html class="no-js">
 	<head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,27 +15,31 @@
 		</header>
 
 		<nav class="site-navigation">
-			<ul>
-				<li><a href="javascript:;" data-filter="home">Home</a></li>
-				<li><a data-fancybox data-src="#about-content" href="javascript:;">About</a></li>
-				<li>
-					Categories
+			<a href="javascript:;" id="menu" class="site-navigation__menu-button"><span>menu</span></a>
+			
+			<div class="site-navigation__container">
+				<ul>
+					<li><a href="javascript:;" data-filter="home">Home</a></li>
+					<li><a data-fancybox data-src="#about-content" href="javascript:;">About</a></li>
+					<li>
+						Categories
 
-					<ul class="subnav">
-						<li><a href="#" data-filter="like">like</a>
-						<li><a href="#" data-filter="challenge">challenging</a>
-						<li><a href="#" data-filter="real">real</a>
-						<li><a href="#" data-filter="fake">fake/bullshit</a>
-						<li><a href="#" data-filter="comfort">comforting</a>
-						<li><a href="#" data-filter="scary">scary</a>
-						<li><a href="#" data-filter="sentimental">sentimental</a>
-						<li><a href="#" data-filter="funny">funny</a>
-						<li><a href="#" data-filter="power">powerful</a>
-						<li><a href="#" data-filter="unique">unique</a>
-					</ul>
-				</li>
-				<li><a data-fancybox data-src="#contact-content" href="javascript:;">Contact</a></li>
-			</ul>
+						<ul class="subnav">
+							<li><a href="#" data-filter="like">like</a>
+							<li><a href="#" data-filter="challenge">challenging</a>
+							<li><a href="#" data-filter="real">real</a>
+							<li><a href="#" data-filter="fake">fake/bullshit</a>
+							<li><a href="#" data-filter="comfort">comforting</a>
+							<li><a href="#" data-filter="scary">scary</a>
+							<li><a href="#" data-filter="sentimental">sentimental</a>
+							<li><a href="#" data-filter="funny">funny</a>
+							<li><a href="#" data-filter="power">powerful</a>
+							<li><a href="#" data-filter="unique">unique</a>
+						</ul>
+					</li>
+					<li><a data-fancybox data-src="#contact-content" href="javascript:;">Contact</a></li>
+				</ul>
+			</div>
 		</nav>
 
 		<main class="main-content">
