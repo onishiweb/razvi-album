@@ -51,6 +51,13 @@ li {
 	font-size: 32px;
 }
 
+@media only screen and (max-width: 699px) {
+	.site-header h1 {
+		max-width: 80%;
+		font-size: 24px;
+	}
+}
+
 .site-header h1 a {
 	color: inherit;
 }
@@ -96,6 +103,12 @@ li {
 	}
 }
 
+@media only screen and (max-width: 449px) {
+	.site-navigation__container {
+		width: 70%;
+	}
+}
+
 .site-navigation__menu-button {
 	position: absolute;
 	top: 25px;
@@ -106,6 +119,15 @@ li {
 	background-repeat: no-repeat;
 	background-position: 50%;
 	background-size: 98%;
+}
+
+@media only screen and (max-width: 449px) {
+	.site-navigation__menu-button {
+		top: 22px;
+		right: 30px;
+		width: 30px;
+		height: 30px;
+	}
 }
 
 .site-navigation__menu-button span {
@@ -259,7 +281,9 @@ li {
 }
 
 .about-content {
-	width: 500px;
+	margin: 0 auto;
+	width: 90%;
+	max-width: 500px;
 	color: #222;
 }
 
